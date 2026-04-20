@@ -13,7 +13,7 @@ def main():
     found_files = []
     all_bytes = 0
     all_new_bytes = 0
-    for root, dirs, files in os.walk('../images'):
+    for root, dirs, files in os.walk('./images'):
         print(root, dirs, files)
         for file in files:
             filename, extension = os.path.splitext(file)
