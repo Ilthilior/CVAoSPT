@@ -19,5 +19,6 @@
 				"ap"
 			]
 		}
-	}
+	},
+	"versions_url": "https://raw.githubusercontent.com/SchwartzGandhi/CVAoSPT/refs/heads/main/versions.json"
 }
