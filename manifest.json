@@ -8,7 +8,7 @@
 	"target_poptracker_version": "0.35.1",
 	"variants": {
 		"standard": {
-			"display_name": "Map Tracker",
+			"display_name": "Map Tracker (Horizontal)",
 			"flags": [
 				"ap"
 			]
@@ -19,6 +19,6 @@
 				"ap"
 			]
 		}
-	},
-	"versions_url": "https://raw.githubusercontent.com/SchwartzGandhi/CVAoSPT/refs/heads/main/versions.json"
+	}
+	// "versions_url": "https://raw.githubusercontent.com/SchwartzGandhi/CVAoSPT/refs/heads/main/versions.json"
 }

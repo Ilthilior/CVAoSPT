@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Example Parent",
+		"name": "Castle Corridor",
 		"children": [
 			{
 				"name": "Example Location 1",
@@ -53,5 +53,53 @@
 				]
 			}
 		]
+	},
+	{
+		"name": "Chapel",
+		"children": []
+	},
+	{
+		"name": "Study",
+		"children": []
+	},
+	{
+		"name": "Dance Hall",
+		"children": []
+	},
+	{
+		"name": "Inner Quarters",
+		"children": []
+	},
+	{
+		"name": "Floating Garden",
+		"children": []
+	},
+	{
+		"name": "Clock Tower",
+		"children": []
+	},
+	{
+		"name": "Underground Reservoir",
+		"children": []
+	},
+	{
+		"name": "Underground Cemetery",
+		"children": []
+	},
+	{
+		"name": "The Arena",
+		"children": []
+	},
+	{
+		"name": "Forbidden Area",
+		"children": []
+	},
+	{
+		"name": "Top Floor",
+		"children": []
+	},
+	{
+		"name": "Chaotic Realm",
+		"children": []
 	}
 ]
