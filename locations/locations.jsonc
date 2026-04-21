@@ -3,55 +3,143 @@
 		"name": "Castle Corridor",
 		"children": [
 			{
-				"name": "Example Location 1",
+				"name": "@Castle Corridor Locations/000/Castle Corridor/Lucky Charm",
 				"access_rules": [
-					//read as: progressive_2 or toggle
-					"progressive_2",
-					"toggle"
+					//read as: $uppies see: CVDoSPT
+					"$uppies"
 				],
 				"sections": [
 					{
-						"name": "Example Section 1",
-						"item_count": 1
-					},
-					{
-						"name": "Example Section 2",
-						"item_count": 3
+						"name": ""
 					}
 				],
-				"map_locations": [
-					{
-						"map": "map1",
-						"x": 1750,
-						"y": 700
-					},
-					{
-						"map": "map2",
-						"x": 1000,
-						"y": 500
-					}
-				]
 			},
 			{
-				"name": "Example Location 2",
+				"name": "@Castle Corridor Locations/005/Castle Corridor/Cape",
 				"access_rules": [
-					//read as: progressive_toggle_2 and has more than 4 consumable
-					"progressive_toggle_2, $has_more_then_n_consumable|4"
 				],
 				"sections": [
 					{
-						"name": "Example Section 1",
-						"item_count": 1
+						"name": ""
 					}
 				],
-				"map_locations": [
+			},
+			{
+				"name": "@Castle Corridor Locations/002/Castle Corridor/Cestus",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
 					{
-						"map": "map1",
-						"x": 1500,
-						"y": 400
+						"name": ""
 					}
-				]
-			}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/002/Castle Corridor/Vjaya",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/005/Castle Corridor/Short Sword",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/005/Castle Corridor/Grave Keeper",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/009/Castle Corridor/Lance",
+				"access_rules": [
+					"$tiny_uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/00A/Castle Corridor/Castle Map 1",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/00F/Castle Corridor/Leather Plate",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/026/Castle Corridor/Armor of Fire",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/027/Castle Corridor/Copper Plate",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/028/Castle Corridor/Scarf",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/019/Castle Corridor/Yasutsuna",
+				"access_rules": [
+					"$flight"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
 		]
 	},
 	{
