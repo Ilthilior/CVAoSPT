@@ -2030,7 +2030,7 @@
 							}
 						]
 					}
-				]
+				],
 			},
 			{
 				"name": "733",
@@ -2072,8 +2072,61 @@
 							}
 						]
 					}
-				]
-			}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/00F/Castle Corridor/Leather Plate",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/026/Castle Corridor/Armor of Fire",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/027/Castle Corridor/Copper Plate",
+				"access_rules": [
+					"$uppies"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/028/Castle Corridor/Scarf",
+				"access_rules": [
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
+			{
+				"name": "@Castle Corridor Locations/019/Castle Corridor/Yasutsuna",
+				"access_rules": [
+					"$flight"
+				],
+				"sections": [
+					{
+						"name": ""
+					}
+				],
+			},
 		]
 	},
 	{
