@@ -9,20 +9,28 @@ for regionloc in newloc:
             for map in region["map_locations"]:
                 x = map["x"]
                 y = map["y"]
-                if isinstance(x, int):
-                    continue
-                letters = list(x)
-                letters.reverse()
-                x = 0
-                for i, l in enumerate(letters):
-                    if i == 0:
-                        x += ord(l) - 65
-                    else:
-                        x += 26
-                y -= 2
-                map["x"] = int((((x*4) + 14 + 2)*6) + 3)
-                map["y"] = int((((y*4) + 8 + 2)*6) + 3)
-                off += 2
+                region["map_locations"].append(
+                    {
+                        "map": "Combined Castle",
+                        "x": x,
+                        "y": y
+                    }
+                )
+                break
+                # if isinstance(x, int):
+                #     continue
+                # letters = list(x)
+                # letters.reverse()
+                # x = 0
+                # for i, l in enumerate(letters):
+                #     if i == 0:
+                #         x += ord(l) - 65
+                #     else:
+                #         x += 26
+                # y -= 1
+                # map["x"] = int((((x*4) + 14 + 2)*6) + 3)
+                # map["y"] = int((((y*4) + 8 + 2)*6) + 3)
+                # off += 2
 
 with open("locations.jsonc", 'w', encoding="utf-8") as file:
     json.dump(newloc, file, indent="\t")

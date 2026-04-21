@@ -18,6 +18,11 @@
 								"map": "Dracula's Castle",
 								"x": 123,
 								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 123,
+								"y": 519
 							}
 						]
 					}
@@ -37,6 +42,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 195,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
 								"x": 195,
 								"y": 519
 							}
@@ -60,6 +70,11 @@
 								"map": "Dracula's Castle",
 								"x": 195,
 								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 495
 							}
 						]
 					}
@@ -79,6 +94,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
 								"x": 267,
 								"y": 567
 							}
@@ -102,6 +122,11 @@
 								"map": "Dracula's Castle",
 								"x": 267,
 								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 591
 							}
 						]
 					}
@@ -121,6 +146,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
 								"x": 267,
 								"y": 567
 							}
@@ -144,6 +174,11 @@
 								"map": "Dracula's Castle",
 								"x": 387,
 								"y": 543
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 543
 							}
 						]
 					}
@@ -163,6 +198,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 435,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
 								"x": 435,
 								"y": 567
 							}
@@ -186,6 +226,11 @@
 								"map": "Dracula's Castle",
 								"x": 459,
 								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 591
 							}
 						]
 					}
@@ -205,6 +250,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 507,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
 								"x": 507,
 								"y": 447
 							}
@@ -228,6 +278,11 @@
 								"map": "Dracula's Castle",
 								"x": 579,
 								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 579,
+								"y": 447
 							}
 						]
 					}
@@ -247,6 +302,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 531,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
 								"x": 531,
 								"y": 447
 							}
@@ -270,6 +330,11 @@
 								"map": "Dracula's Castle",
 								"x": 603,
 								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 603,
+								"y": 591
 							}
 						]
 					}
@@ -289,6 +354,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1035,
 								"y": 447
 							}
@@ -312,6 +382,11 @@
 								"map": "Dracula's Castle",
 								"x": 483,
 								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 483,
+								"y": 567
 							}
 						]
 					}
@@ -331,6 +406,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
 								"x": 675,
 								"y": 399
 							}
@@ -354,6 +434,11 @@
 								"map": "Dracula's Castle",
 								"x": 675,
 								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 399
 							}
 						]
 					}
@@ -373,6 +458,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
 								"x": 747,
 								"y": 399
 							}
@@ -396,6 +486,11 @@
 								"map": "Dracula's Castle",
 								"x": 747,
 								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 423
 							}
 						]
 					}
@@ -417,6 +512,11 @@
 								"map": "Dracula's Castle",
 								"x": 891,
 								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 495
 							}
 						]
 					}
@@ -436,6 +536,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1035,
 								"y": 495
 							}
@@ -464,6 +569,11 @@
 								"map": "Dracula's Castle",
 								"x": 1107,
 								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 519
 							}
 						]
 					}
@@ -483,6 +593,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1131,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1131,
 								"y": 447
 							}
@@ -506,6 +621,11 @@
 								"map": "Dracula's Castle",
 								"x": 1155,
 								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 423
 							}
 						]
 					}
@@ -525,6 +645,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1155,
 								"y": 375
 							}
@@ -548,6 +673,11 @@
 								"map": "Dracula's Castle",
 								"x": 1131,
 								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1131,
+								"y": 375
 							}
 						]
 					}
@@ -567,6 +697,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1203,
 								"y": 375
 							}
@@ -590,6 +725,11 @@
 								"map": "Dracula's Castle",
 								"x": 1155,
 								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 495
 							}
 						]
 					}
@@ -609,6 +749,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1203,
 								"y": 495
 							}
@@ -632,6 +777,11 @@
 								"map": "Dracula's Castle",
 								"x": 1203,
 								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 567
 							}
 						]
 					}
@@ -651,6 +801,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1275,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1275,
 								"y": 423
 							}
@@ -674,6 +829,11 @@
 								"map": "Dracula's Castle",
 								"x": 1275,
 								"y": 471
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1275,
+								"y": 471
 							}
 						]
 					}
@@ -695,6 +855,11 @@
 								"map": "Dracula's Castle",
 								"x": 1227,
 								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 519
 							}
 						]
 					}
@@ -714,6 +879,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 543
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1227,
 								"y": 543
 							}
@@ -742,6 +912,11 @@
 								"map": "Dracula's Castle",
 								"x": 1035,
 								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1035,
+								"y": 639
 							}
 						]
 					}
@@ -761,6 +936,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1035,
 								"y": 639
 							}
@@ -784,6 +964,11 @@
 								"map": "Dracula's Castle",
 								"x": 1083,
 								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1083,
+								"y": 639
 							}
 						]
 					}
@@ -803,6 +988,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1107,
 								"y": 639
 							}
@@ -826,6 +1016,11 @@
 								"map": "Dracula's Castle",
 								"x": 1107,
 								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 711
 							}
 						]
 					}
@@ -845,6 +1040,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1227,
 								"y": 591
 							}
@@ -868,6 +1068,11 @@
 								"map": "Dracula's Castle",
 								"x": 1227,
 								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 615
 							}
 						]
 					}
@@ -887,6 +1092,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1251,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1251,
 								"y": 663
 							}
@@ -910,6 +1120,11 @@
 								"map": "Dracula's Castle",
 								"x": 1227,
 								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 687
 							}
 						]
 					}
@@ -929,6 +1144,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1059,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1059,
 								"y": 711
 							}
@@ -952,6 +1172,11 @@
 								"map": "Dracula's Castle",
 								"x": 1131,
 								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1131,
+								"y": 711
 							}
 						]
 					}
@@ -973,6 +1198,11 @@
 								"map": "Dracula's Castle",
 								"x": 1203,
 								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 687
 							}
 						]
 					}
@@ -992,6 +1222,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1155,
 								"y": 615
 							}
@@ -1020,6 +1255,11 @@
 								"map": "Dracula's Castle",
 								"x": 195,
 								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 375
 							}
 						]
 					}
@@ -1039,6 +1279,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
 								"x": 219,
 								"y": 327
 							}
@@ -1062,6 +1307,11 @@
 								"map": "Dracula's Castle",
 								"x": 243,
 								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 423
 							}
 						]
 					}
@@ -1081,6 +1331,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 303
+							},
+							{
+								"map": "Combined Castle",
 								"x": 243,
 								"y": 303
 							}
@@ -1104,6 +1359,11 @@
 								"map": "Dracula's Castle",
 								"x": 243,
 								"y": 471
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 471
 							}
 						]
 					}
@@ -1123,6 +1383,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
 								"x": 243,
 								"y": 519
 							}
@@ -1146,6 +1411,11 @@
 								"map": "Dracula's Castle",
 								"x": 291,
 								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 291,
+								"y": 327
 							}
 						]
 					}
@@ -1167,6 +1437,11 @@
 								"map": "Dracula's Castle",
 								"x": 387,
 								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 375
 							}
 						]
 					}
@@ -1186,6 +1461,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
 								"x": 267,
 								"y": 375
 							}
@@ -1214,6 +1494,11 @@
 								"map": "Dracula's Castle",
 								"x": 1750,
 								"y": 700
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1750,
+								"y": 700
 							}
 						]
 					}
@@ -1233,6 +1518,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1750,
 								"y": 700
 							}
@@ -1256,6 +1546,11 @@
 								"map": "Dracula's Castle",
 								"x": 459,
 								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 375
 							}
 						]
 					}
@@ -1275,6 +1570,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 483,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
 								"x": 483,
 								"y": 399
 							}
@@ -1298,6 +1598,11 @@
 								"map": "Dracula's Castle",
 								"x": 507,
 								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 507,
+								"y": 399
 							}
 						]
 					}
@@ -1317,6 +1622,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 579,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
 								"x": 579,
 								"y": 183
 							}
@@ -1340,6 +1650,11 @@
 								"map": "Dracula's Castle",
 								"x": 531,
 								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 531,
+								"y": 183
 							}
 						]
 					}
@@ -1361,6 +1676,11 @@
 								"map": "Dracula's Castle",
 								"x": 555,
 								"y": 303
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 303
 							}
 						]
 					}
@@ -1380,6 +1700,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 627,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
 								"x": 627,
 								"y": 399
 							}
@@ -1408,6 +1733,11 @@
 								"map": "Dracula's Castle",
 								"x": 723,
 								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 723,
+								"y": 519
 							}
 						]
 					}
@@ -1427,6 +1757,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
 								"x": 219,
 								"y": 183
 							}
@@ -1450,6 +1785,11 @@
 								"map": "Dracula's Castle",
 								"x": 291,
 								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 291,
+								"y": 183
 							}
 						]
 					}
@@ -1469,6 +1809,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
 								"x": 1227,
 								"y": 279
 							}
@@ -1492,6 +1837,11 @@
 								"map": "Dracula's Castle",
 								"x": 1107,
 								"y": 207
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 207
 							}
 						]
 					}
@@ -1511,6 +1861,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 411,
+								"y": 111
+							},
+							{
+								"map": "Combined Castle",
 								"x": 411,
 								"y": 111
 							}
@@ -1537,8 +1892,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 891,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 423
 							}
 						]
 					}
@@ -1560,6 +1920,11 @@
 								"map": "Dracula's Castle",
 								"x": 963,
 								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 963,
+								"y": 183
 							}
 						]
 					}
@@ -1579,8 +1944,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 987,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 375
 							}
 						]
 					}
@@ -1600,6 +1970,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 915,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
 								"x": 915,
 								"y": 183
 							}
@@ -1623,6 +1998,11 @@
 								"map": "Dracula's Castle",
 								"x": 987,
 								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 183
 							}
 						]
 					}
@@ -1642,6 +2022,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 963,
+								"y": 231
+							},
+							{
+								"map": "Combined Castle",
 								"x": 963,
 								"y": 231
 							}
@@ -1665,6 +2050,11 @@
 								"map": "Dracula's Castle",
 								"x": 939,
 								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 939,
+								"y": 279
 							}
 						]
 					}
@@ -1684,6 +2074,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
 								"x": 891,
 								"y": 327
 							}
@@ -1712,6 +2107,11 @@
 								"map": "Dracula's Castle",
 								"x": 219,
 								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 615
 							}
 						]
 					}
@@ -1731,6 +2131,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
 								"x": 459,
 								"y": 615
 							}
@@ -1754,6 +2159,11 @@
 								"map": "Dracula's Castle",
 								"x": 387,
 								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 615
 							}
 						]
 					}
@@ -1773,8 +2183,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 435,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 435,
+								"y": 663
 							}
 						]
 					}
@@ -1794,8 +2209,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 459,
+								"y": 831
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 831
 							}
 						]
 					}
@@ -1815,8 +2235,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 459,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 879
 							}
 						]
 					}
@@ -1836,8 +2261,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 531,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 531,
+								"y": 807
 							}
 						]
 					}
@@ -1857,8 +2287,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 555,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 663
 							}
 						]
 					}
@@ -1878,8 +2313,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 867,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 867,
+								"y": 711
 							}
 						]
 					}
@@ -1899,8 +2339,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 699,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 699,
+								"y": 591
 							}
 						]
 					}
@@ -1920,8 +2365,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 795,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 807
 							}
 						]
 					}
@@ -1931,7 +2381,7 @@
 				"name": "716",
 				"children": [
 					{
-						"name": "Underground Reservoir",
+						"name": "Underground Cemetery",
 						"access_rules": [],
 						"sections": [
 							{
@@ -1941,8 +2391,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 891,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 879
 							}
 						]
 					}
@@ -1962,8 +2417,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 795,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 663
 							}
 						]
 					}
@@ -1983,8 +2443,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 819,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 819,
+								"y": 615
 							}
 						]
 					}
@@ -2004,8 +2469,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 843,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 639
 							}
 						]
 					}
@@ -2025,8 +2495,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 915,
+								"y": 543
+							},
+							{
+								"map": "Combined Castle",
+								"x": 915,
+								"y": 543
 							}
 						]
 					}
@@ -2046,8 +2521,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 891,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 591
 							}
 						]
 					}
@@ -2067,8 +2547,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 987,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 591
 							}
 						]
 					}
@@ -2088,8 +2573,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 963,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 963,
+								"y": 687
 							}
 						]
 					}
@@ -2109,8 +2599,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 843,
+								"y": 759
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 759
 							}
 						]
 					}
@@ -2130,8 +2625,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 843,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 663
 							}
 						]
 					}
@@ -2141,7 +2641,7 @@
 				"name": "722",
 				"children": [
 					{
-						"name": "Underground Reservoir",
+						"name": "Underground Cemetery",
 						"access_rules": [],
 						"sections": [
 							{
@@ -2151,8 +2651,39 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 555,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 855
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "725",
+				"children": [
+					{
+						"name": "Underground Cemetery",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Legion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 723,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 723,
+								"y": 879
 							}
 						]
 					}
@@ -2162,7 +2693,7 @@
 				"name": "733",
 				"children": [
 					{
-						"name": "Underground Reservoir",
+						"name": "Underground Cemetery",
 						"access_rules": [],
 						"sections": [
 							{
@@ -2172,8 +2703,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 747,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 855
 							}
 						]
 					}
@@ -2183,7 +2719,7 @@
 				"name": "736",
 				"children": [
 					{
-						"name": "Underground Reservoir",
+						"name": "Underground Cemetery",
 						"access_rules": [],
 						"sections": [
 							{
@@ -2193,8 +2729,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 867,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 867,
+								"y": 855
 							}
 						]
 					}
@@ -2219,8 +2760,39 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 123,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 123,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "801",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Balore"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 171,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 171,
+								"y": 807
 							}
 						]
 					}
@@ -2240,8 +2812,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 195,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 687
 							}
 						]
 					}
@@ -2261,8 +2838,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 219,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 711
 							}
 						]
 					}
@@ -2282,8 +2864,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 315,
+								"y": 759
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 759
 							}
 						]
 					}
@@ -2303,8 +2890,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 315,
+								"y": 783
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 783
 							}
 						]
 					}
@@ -2324,8 +2916,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 315,
+								"y": 783
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 783
 							}
 						]
 					}
@@ -2345,8 +2942,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 315,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 807
 							}
 						]
 					}
@@ -2366,8 +2968,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 339,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 339,
+								"y": 663
 							}
 						]
 					}
@@ -2394,6 +3001,11 @@
 								"map": "Dracula's Castle",
 								"x": 675,
 								"y": 135
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 135
 							}
 						]
 					}
@@ -2413,6 +3025,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 135
+							},
+							{
+								"map": "Combined Castle",
 								"x": 675,
 								"y": 135
 							}
@@ -2436,6 +3053,11 @@
 								"map": "Dracula's Castle",
 								"x": 675,
 								"y": 159
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 159
 							}
 						]
 					}
@@ -2455,6 +3077,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 135
+							},
+							{
+								"map": "Combined Castle",
 								"x": 747,
 								"y": 135
 							}
@@ -2478,6 +3105,11 @@
 								"map": "Dracula's Castle",
 								"x": 675,
 								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 279
 							}
 						]
 					}
@@ -2497,6 +3129,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
 								"x": 747,
 								"y": 279
 							}
@@ -2520,6 +3157,11 @@
 								"map": "Dracula's Castle",
 								"x": 747,
 								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 327
 							}
 						]
 					}
@@ -2539,6 +3181,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 795,
+								"y": 159
+							},
+							{
+								"map": "Combined Castle",
 								"x": 795,
 								"y": 159
 							}
@@ -2562,6 +3209,11 @@
 								"map": "Dracula's Castle",
 								"x": 843,
 								"y": 351
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 351
 							}
 						]
 					}
@@ -2581,6 +3233,11 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
 								"x": 675,
 								"y": 183
 							}
@@ -2607,8 +3264,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 1107,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 807
 							}
 						]
 					}
@@ -2628,8 +3290,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1750,
-								"y": 700
+								"x": 1011,
+								"y": 831
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1011,
+								"y": 831
 							}
 						]
 					}
@@ -2654,8 +3321,18 @@
 						"map_locations": [
 							{
 								"map": "Chaotic Realm",
-								"x": 1750,
-								"y": 700
+								"x": 747,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 1047
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 519
 							}
 						]
 					}
@@ -2675,8 +3352,18 @@
 						"map_locations": [
 							{
 								"map": "Chaotic Realm",
-								"x": 1750,
-								"y": 700
+								"x": 795,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 975
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 447
 							}
 						]
 					}
@@ -2696,8 +3383,18 @@
 						"map_locations": [
 							{
 								"map": "Chaotic Realm",
-								"x": 1750,
-								"y": 700
+								"x": 795,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 1047
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 519
 							}
 						]
 					}

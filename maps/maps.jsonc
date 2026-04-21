@@ -8,14 +8,14 @@
 	},
 	{
 		"name": "Chaotic Realm",
-		"location_size": 5,
-		"location_border_thickness": 4,
+		"location_size": 15,
+		"location_border_thickness": 3,
 		"img": "images/maps/Chaotic Realm.png"
 	},
 	{
 		"name": "Combined Castle",
-		"location_size": 5,
-		"location_border_thickness": 4,
+		"location_size": 15,
+		"location_border_thickness": 3,
 		"img": "images/maps/Combined.png"
 	}
 ]
