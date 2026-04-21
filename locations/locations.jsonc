@@ -1,105 +1,2582 @@
 [
 	{
-		"name": "Castle Corridor",
+		"name": "Castle Corridor Locations",
 		"children": [
 			{
-				"name": "Example Location 1",
-				"access_rules": [
-					//read as: progressive_2 or toggle
-					"progressive_2",
-					"toggle"
-				],
-				"sections": [
+				"name": "000",
+				"children": [
 					{
-						"name": "Example Section 1",
-						"item_count": 1
-					},
-					{
-						"name": "Example Section 2",
-						"item_count": 3
-					}
-				],
-				"map_locations": [
-					{
-						"map": "map1",
-						"x": 1750,
-						"y": 700
-					},
-					{
-						"map": "map2",
-						"x": 1000,
-						"y": 500
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Lucky Charm"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
 					}
 				]
 			},
 			{
-				"name": "Example Location 2",
-				"access_rules": [
-					//read as: progressive_toggle_2 and has more than 4 consumable
-					"progressive_toggle_2, $has_more_then_n_consumable|4"
-				],
-				"sections": [
+				"name": "002_0",
+				"children": [
 					{
-						"name": "Example Section 1",
-						"item_count": 1
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Vjaya"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
 					}
-				],
-				"map_locations": [
+				]
+			},
+			{
+				"name": "002_1",
+				"children": [
 					{
-						"map": "map1",
-						"x": 1500,
-						"y": 400
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Cestus"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Short Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Cape"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_2",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Grave Keeper"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "009",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Lance"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00B",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00D",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00F_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00F_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Leather Plate"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "010",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Flying Armor"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "019",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Yasutsuna"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "023",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Castle Map 1"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "026_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Armor of Fire"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "026_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "027",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Copper Plate"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "028",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Scarf"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "029",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "02C",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Chapel",
-		"children": []
+		"name": "Chapel Locations",
+		"children": [
+			{
+				"name": "101",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Anti-Venom"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_0",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_1",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_2",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Bamboo Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_3",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_4",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "105",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "106",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Tallhammer"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "107",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Rapier"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "108_0",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "108_1",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "109",
+				"children": [
+					{
+						"name": "Chapel",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Silk Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Study",
-		"children": []
+		"name": "Study Locations",
+		"children": [
+			{
+				"name": "200_0",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Melon"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "200_1",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Kaiser Knuckle"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "201",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "202",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Uncurse Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "205",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Malphas"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "208",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Hammer"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "209",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Heart Pendant"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20A",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Broadsword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20B",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Whip Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20E",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Ancient Book 1"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "211",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "215",
+				"children": [
+					{
+						"name": "Study",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Bastard Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Dance Hall",
-		"children": []
+		"name": "Dance Hall Locations",
+		"children": [
+			{
+				"name": "301",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Samurai Armor"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "303",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "306",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Cutall"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "307",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "308",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "30A",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Skeleton Blaze"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "30C",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "310",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Sherman Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Inner Quarters",
-		"children": []
+		"name": "Inner Quarters Locations",
+		"children": [
+			{
+				"name": "400_0",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Dainslef"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "400_1",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Ancient Book 2"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "403",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "405",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "409",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Ninja Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "40A_0",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Hrunting"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "40A_1",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Undine"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "412",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Floating Garden",
-		"children": []
+		"name": "Floating Garden Locations",
+		"children": [
+			{
+				"name": "503",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Castle Map 3"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "504_0",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "504_1",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "509",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "50A",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "50D",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Clock Tower",
-		"children": []
+		"name": "Clock Tower Locations",
+		"children": [
+			{
+				"name": "603",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Pitch Black Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "609",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Burtgang"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "611",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Skula"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "613",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Death's Sickle"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "615",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "617",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Death's Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "61B",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mystletain"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Underground Reservoir",
-		"children": []
+		"name": "Underground Reservoir Locations",
+		"children": [
+			{
+				"name": "700",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Pendant"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "701",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Tasty Meat"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "702",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Elfin Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "703",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Rahab's Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "708",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "709",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Pudding"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70C",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70E",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70F",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "711",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Milican's Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "715",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Armor of Water"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "716",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Galamoth"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "718",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Ronginus' Spear"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "719_0",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "719_1",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Handgun"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71C",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Ancient Book 3"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71D",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71F",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Rune Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "720",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Osafune"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "721_0",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "721_1",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Eversing"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "722",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "733",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "736",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Gold Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Underground Cemetery",
-		"children": []
+		"name": "The Arena Locations",
+		"children": [
+			{
+				"name": "800",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Giant Bat"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "802",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Laevatain"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "808",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Black Cloak"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "80F",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Olrox's Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "810_0",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Silver Handgun"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "810_1",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Balmung"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "811",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Rare Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "812",
+				"children": [
+					{
+						"name": "The Arena",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "The Arena",
-		"children": []
+		"name": "Top Floor Locations",
+		"children": [
+			{
+				"name": "900_0",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Dracula's Tunic"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "900_1",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Black Panther"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "901_0",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "901_1",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Tear of Blood"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "902",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Gungner"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "906",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Hippogryph"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "908",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Satan's Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "910",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "915",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "917",
+				"children": [
+					{
+						"name": "Top Floor",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Kaladbolg"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Forbidden Area",
-		"children": []
+		"name": "Forbidden Area Locations",
+		"children": [
+			{
+				"name": "A04",
+				"children": [
+					{
+						"name": "Forbidden Area",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Claimh Solais"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "A06",
+				"children": [
+					{
+						"name": "Forbidden Area",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Joyeuse"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	},
 	{
-		"name": "Top Floor",
-		"children": []
-	},
-	{
-		"name": "Chaotic Realm",
-		"children": []
+		"name": "Chaotic Realm Locations",
+		"children": [
+			{
+				"name": "B18",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "B1C",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "B1D",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"access_rules": [],
+						"sections": [
+							{
+								"name": "Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 1750,
+								"y": 700
+							}
+						]
+					}
+				]
+			}
+		]
 	}
 ]
