@@ -10,7 +10,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Lucky Charm"
+								"name": "Lucky Charm",
+								"chest_unopened_img": "images/items/lucky_charm.png",
+								"chest_opened_img": "images/items/lucky_charm_bw.png"
 							}
 						],
 						"map_locations": [
@@ -36,7 +38,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Vjaya"
+								"name": "Vjaya",
+								"chest_unopened_img": "images/items/vjaya.png",
+								"chest_opened_img": "images/items/vjaya_bw.png"
 							}
 						],
 						"map_locations": [
@@ -62,7 +66,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Cestus"
+								"name": "Cestus",
+								"chest_unopened_img": "images/items/cestus.png",
+								"chest_opened_img": "images/items/cestus_bw.png"
 							}
 						],
 						"map_locations": [
@@ -88,7 +94,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Short Sword"
+								"name": "Short Sword",
+								"chest_unopened_img": "images/items/short_sword.png",
+								"chest_opened_img": "images/items/short_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -114,7 +122,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Cape"
+								"name": "Cape",
+								"chest_unopened_img": "images/items/cape.png",
+								"chest_opened_img": "images/items/cape_bw.png"
 							}
 						],
 						"map_locations": [
@@ -166,7 +176,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Lance"
+								"name": "Lance",
+								"chest_unopened_img": "images/items/lance.png",
+								"chest_opened_img": "images/items/lance_bw.png"
 							}
 						],
 						"map_locations": [
@@ -218,7 +230,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mind Up"
+								"name": "Mind Up",
+								"chest_unopened_img": "images/items/mind_up.png",
+								"chest_opened_img": "images/items/mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -244,7 +258,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Potion"
+								"name": "Potion",
+								"chest_unopened_img": "images/items/potion.png",
+								"chest_opened_img": "images/items/potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -270,7 +286,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Potion"
+								"name": "Potion",
+								"chest_unopened_img": "images/items/potion.png",
+								"chest_opened_img": "images/items/potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -296,7 +314,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Leather Plate"
+								"name": "Leather Plate",
+								"chest_unopened_img": "images/items/leather_plate.png",
+								"chest_opened_img": "images/items/leather_plate_bw.png"
 							}
 						],
 						"map_locations": [
@@ -348,7 +368,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Yasutsuna"
+								"name": "Yasutsuna",
+								"chest_unopened_img": "images/items/yasutsuna.png",
+								"chest_opened_img": "images/items/yasutsuna_bw.png"
 							}
 						],
 						"map_locations": [
@@ -374,7 +396,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Castle Map 1"
+								"name": "Castle Map 1",
+								"chest_unopened_img": "images/items/castle_map_1.png",
+								"chest_opened_img": "images/items/castle_map_1_bw.png"
 							}
 						],
 						"map_locations": [
@@ -400,7 +424,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Armor of Fire"
+								"name": "Armor of Fire",
+								"chest_unopened_img": "images/items/armor_of_fire.png",
+								"chest_opened_img": "images/items/armor_of_fire_bw.png"
 							}
 						],
 						"map_locations": [
@@ -426,7 +452,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Potion"
+								"name": "Potion",
+								"chest_unopened_img": "images/items/potion.png",
+								"chest_opened_img": "images/items/potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -452,7 +480,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Copper Plate"
+								"name": "Copper Plate",
+								"chest_unopened_img": "images/items/copper_plate.png",
+								"chest_opened_img": "images/items/copper_plate_bw.png"
 							}
 						],
 						"map_locations": [
@@ -478,7 +508,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Scarf"
+								"name": "Scarf",
+								"chest_unopened_img": "images/items/scarf.png",
+								"chest_opened_img": "images/items/scarf_bw.png"
 							}
 						],
 						"map_locations": [
@@ -504,7 +536,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$500"
+								"name": "$500",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -530,7 +564,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Potion"
+								"name": "Potion",
+								"chest_unopened_img": "images/items/potion.png",
+								"chest_opened_img": "images/items/potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -561,7 +597,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Anti-Venom"
+								"name": "Anti-Venom",
+								"chest_unopened_img": "images/items/anti-venom.png",
+								"chest_opened_img": "images/items/anti-venom_bw.png"
 							}
 						],
 						"map_locations": [
@@ -587,7 +625,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Mind Up"
+								"name": "High Mind Up",
+								"chest_unopened_img": "images/items/high_mind_up.png",
+								"chest_opened_img": "images/items/high_mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -613,7 +653,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -639,7 +681,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Bamboo Sword"
+								"name": "Bamboo Sword",
+								"chest_unopened_img": "images/items/bamboo_sword.png",
+								"chest_opened_img": "images/items/bamboo_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -665,7 +709,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Potion"
+								"name": "High Potion",
+								"chest_unopened_img": "images/items/high_potion.png",
+								"chest_opened_img": "images/items/high_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -691,7 +737,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mind Up"
+								"name": "Mind Up",
+								"chest_unopened_img": "images/items/mind_up.png",
+								"chest_opened_img": "images/items/mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -717,7 +765,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -743,7 +793,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Tallhammer"
+								"name": "Tallhammer",
+								"chest_unopened_img": "images/items/tallhammer.png",
+								"chest_opened_img": "images/items/tallhammer_bw.png"
 							}
 						],
 						"map_locations": [
@@ -795,7 +847,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Rapier"
+								"name": "Rapier",
+								"chest_unopened_img": "images/items/rapier.png",
+								"chest_opened_img": "images/items/rapier_bw.png"
 							}
 						],
 						"map_locations": [
@@ -821,7 +875,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$1,000"
+								"name": "$1,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -847,7 +903,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -873,7 +931,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Silk Robe"
+								"name": "Silk Robe",
+								"chest_unopened_img": "images/items/silk_robe.png",
+								"chest_opened_img": "images/items/silk_robe_bw.png"
 							}
 						],
 						"map_locations": [
@@ -904,7 +964,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Melon"
+								"name": "Melon",
+								"chest_unopened_img": "images/items/melon.png",
+								"chest_opened_img": "images/items/melon_bw.png"
 							}
 						],
 						"map_locations": [
@@ -930,7 +992,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Kaiser Knuckle"
+								"name": "Kaiser Knuckle",
+								"chest_unopened_img": "images/items/kaiser_knuckle.png",
+								"chest_opened_img": "images/items/kaiser_knuckle_bw.png"
 							}
 						],
 						"map_locations": [
@@ -956,7 +1020,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -982,7 +1048,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Uncurse Potion"
+								"name": "Uncurse Potion",
+								"chest_unopened_img": "images/items/uncurse_potion.png",
+								"chest_opened_img": "images/items/uncurse_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1034,7 +1102,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Hammer"
+								"name": "Hammer",
+								"chest_unopened_img": "images/items/hammer.png",
+								"chest_opened_img": "images/items/hammer_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1060,7 +1130,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Heart Pendant"
+								"name": "Heart Pendant",
+								"chest_unopened_img": "images/items/heart_pendant.png",
+								"chest_opened_img": "images/items/heart_pendant_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1086,7 +1158,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Broadsword"
+								"name": "Broadsword",
+								"chest_unopened_img": "images/items/broadsword.png",
+								"chest_opened_img": "images/items/broadsword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1112,7 +1186,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Whip Sword"
+								"name": "Whip Sword",
+								"chest_unopened_img": "images/items/whip_sword.png",
+								"chest_opened_img": "images/items/whip_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1138,7 +1214,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Ancient Book 1"
+								"name": "Ancient Book 1",
+								"chest_unopened_img": "images/items/ancient_book_1.png",
+								"chest_opened_img": "images/items/ancient_book_1_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1190,7 +1268,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1216,7 +1296,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Bastard Sword"
+								"name": "Bastard Sword",
+								"chest_unopened_img": "images/items/bastard_sword.png",
+								"chest_opened_img": "images/items/bastard_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1247,7 +1329,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Samurai Armor"
+								"name": "Samurai Armor",
+								"chest_unopened_img": "images/items/samurai_armor.png",
+								"chest_opened_img": "images/items/samurai_armor_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1273,7 +1357,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1299,7 +1385,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Cutall"
+								"name": "Cutall",
+								"chest_unopened_img": "images/items/cutall.png",
+								"chest_opened_img": "images/items/cutall_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1325,7 +1413,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mana Prism"
+								"name": "Mana Prism",
+								"chest_unopened_img": "images/items/mana_prism.png",
+								"chest_opened_img": "images/items/mana_prism_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1351,7 +1441,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Potion"
+								"name": "High Potion",
+								"chest_unopened_img": "images/items/high_potion.png",
+								"chest_opened_img": "images/items/high_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1403,7 +1495,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$100"
+								"name": "$100",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1429,7 +1523,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Sherman Ring"
+								"name": "Sherman Ring",
+								"chest_unopened_img": "images/items/sherman_ring.png",
+								"chest_opened_img": "images/items/sherman_ring_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1486,7 +1582,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Dainslef"
+								"name": "Dainslef",
+								"chest_unopened_img": "images/items/dainslef.png",
+								"chest_opened_img": "images/items/dainslef_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1512,7 +1610,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Ancient Book 2"
+								"name": "Ancient Book 2",
+								"chest_unopened_img": "images/items/ancient_book_2.png",
+								"chest_opened_img": "images/items/ancient_book_2_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1538,7 +1638,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Mind Up"
+								"name": "High Mind Up",
+								"chest_unopened_img": "images/items/high_mind_up.png",
+								"chest_opened_img": "images/items/high_mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1564,7 +1666,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Potion"
+								"name": "High Potion",
+								"chest_unopened_img": "images/items/high_potion.png",
+								"chest_opened_img": "images/items/high_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1590,7 +1694,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Ninja Suit"
+								"name": "Ninja Suit",
+								"chest_unopened_img": "images/items/ninja_suit.png",
+								"chest_opened_img": "images/items/ninja_suit_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1616,7 +1722,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Hrunting"
+								"name": "Hrunting",
+								"chest_unopened_img": "images/items/hrunting.png",
+								"chest_opened_img": "images/items/hrunting_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1694,7 +1802,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mind Up"
+								"name": "Mind Up",
+								"chest_unopened_img": "images/items/mind_up.png",
+								"chest_opened_img": "images/items/mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1725,7 +1835,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Castle Map 3"
+								"name": "Castle Map 3",
+								"chest_unopened_img": "images/items/castle_map_3.png",
+								"chest_opened_img": "images/items/castle_map_3_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1751,7 +1863,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$1,000"
+								"name": "$1,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1777,7 +1891,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$1,000"
+								"name": "$1,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1803,7 +1919,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$500"
+								"name": "$500",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1829,7 +1947,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$500"
+								"name": "$500",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1855,7 +1975,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$500"
+								"name": "$500",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1886,7 +2008,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Pitch Black Suit"
+								"name": "Pitch Black Suit",
+								"chest_unopened_img": "images/items/pitch_black_suit.png",
+								"chest_opened_img": "images/items/pitch_black_suit_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1938,7 +2062,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Burtgang"
+								"name": "Burtgang",
+								"chest_unopened_img": "images/items/burtgang.png",
+								"chest_opened_img": "images/items/burtgang_bw.png"
 							}
 						],
 						"map_locations": [
@@ -1990,7 +2116,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Death's Sickle"
+								"name": "Death's Sickle",
+								"chest_unopened_img": "images/items/death's_sickle.png",
+								"chest_opened_img": "images/items/death's_sickle_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2016,7 +2144,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$2,000"
+								"name": "$2,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2042,7 +2172,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Death's Robe"
+								"name": "Death's Robe",
+								"chest_unopened_img": "images/items/death's_robe.png",
+								"chest_opened_img": "images/items/death's_robe_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2068,7 +2200,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mystletain"
+								"name": "Mystletain",
+								"chest_unopened_img": "images/items/mystletain.png",
+								"chest_opened_img": "images/items/mystletain_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2099,7 +2233,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Pendant"
+								"name": "Pendant",
+								"chest_unopened_img": "images/items/pendant.png",
+								"chest_opened_img": "images/items/pendant_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2125,7 +2261,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Tasty Meat"
+								"name": "Tasty Meat",
+								"chest_unopened_img": "images/items/tasty_meat.png",
+								"chest_opened_img": "images/items/tasty_meat_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2151,7 +2289,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Elfin Robe"
+								"name": "Elfin Robe",
+								"chest_unopened_img": "images/items/elfin_robe.png",
+								"chest_opened_img": "images/items/elfin_robe_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2177,7 +2317,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Rahab's Sword"
+								"name": "Rahab's Sword",
+								"chest_unopened_img": "images/items/rahab's_sword.png",
+								"chest_opened_img": "images/items/rahab's_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2203,7 +2345,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Mind Up"
+								"name": "High Mind Up",
+								"chest_unopened_img": "images/items/high_mind_up.png",
+								"chest_opened_img": "images/items/high_mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2229,7 +2373,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Pudding"
+								"name": "Pudding",
+								"chest_unopened_img": "images/items/pudding.png",
+								"chest_opened_img": "images/items/pudding_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2255,7 +2401,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mana Prism"
+								"name": "Mana Prism",
+								"chest_unopened_img": "images/items/mana_prism.png",
+								"chest_opened_img": "images/items/mana_prism_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2281,7 +2429,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Super Potion"
+								"name": "Super Potion",
+								"chest_unopened_img": "images/items/super_potion.png",
+								"chest_opened_img": "images/items/super_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2307,7 +2457,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Super Potion"
+								"name": "Super Potion",
+								"chest_unopened_img": "images/items/super_potion.png",
+								"chest_opened_img": "images/items/super_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2333,7 +2485,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Milican's Sword"
+								"name": "Milican's Sword",
+								"chest_unopened_img": "images/items/milican's_sword.png",
+								"chest_opened_img": "images/items/milican's_sword_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2359,7 +2513,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Armor of Water"
+								"name": "Armor of Water",
+								"chest_unopened_img": "images/items/armor_of_water.png",
+								"chest_opened_img": "images/items/armor_of_water_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2411,7 +2567,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Ronginus' Spear"
+								"name": "Ronginus' Spear",
+								"chest_unopened_img": "images/items/ronginus'_spear.png",
+								"chest_opened_img": "images/items/ronginus'_spear_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2437,7 +2595,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$1,000"
+								"name": "$1,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2463,7 +2623,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Handgun"
+								"name": "Handgun",
+								"chest_unopened_img": "images/items/handgun.png",
+								"chest_opened_img": "images/items/handgun_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2489,7 +2651,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Ancient Book 3"
+								"name": "Ancient Book 3",
+								"chest_unopened_img": "images/items/ancient_book_3.png",
+								"chest_opened_img": "images/items/ancient_book_3_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2515,7 +2679,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$2,000"
+								"name": "$2,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2541,7 +2707,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Rune Ring"
+								"name": "Rune Ring",
+								"chest_unopened_img": "images/items/rune_ring.png",
+								"chest_opened_img": "images/items/rune_ring_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2567,7 +2735,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Osafune"
+								"name": "Osafune",
+								"chest_unopened_img": "images/items/osafune.png",
+								"chest_opened_img": "images/items/osafune_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2593,7 +2763,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Super Potion"
+								"name": "Super Potion",
+								"chest_unopened_img": "images/items/super_potion.png",
+								"chest_opened_img": "images/items/super_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2619,7 +2791,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Eversing"
+								"name": "Eversing",
+								"chest_unopened_img": "images/items/eversing.png",
+								"chest_opened_img": "images/items/eversing_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2645,7 +2819,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "$2,000"
+								"name": "$2,000",
+								"chest_unopened_img": "images/items/money_bag.png",
+								"chest_opened_img": "images/items/money_bag_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2697,7 +2873,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Potion"
+								"name": "High Potion",
+								"chest_unopened_img": "images/items/high_potion.png",
+								"chest_opened_img": "images/items/high_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2723,7 +2901,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Gold Ring"
+								"name": "Gold Ring",
+								"chest_unopened_img": "images/items/gold_ring.png",
+								"chest_opened_img": "images/items/gold_ring_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2806,7 +2986,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Laevatain"
+								"name": "Laevatain",
+								"chest_unopened_img": "images/items/laevatain.png",
+								"chest_opened_img": "images/items/laevatain_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2832,7 +3014,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Black Cloak"
+								"name": "Black Cloak",
+								"chest_unopened_img": "images/items/black_cloak.png",
+								"chest_opened_img": "images/items/black_cloak_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2858,7 +3042,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Olrox's Suit"
+								"name": "Olrox's Suit",
+								"chest_unopened_img": "images/items/olrox's_suit.png",
+								"chest_opened_img": "images/items/olrox's_suit_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2884,7 +3070,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Silver Handgun"
+								"name": "Silver Handgun",
+								"chest_unopened_img": "images/items/silver_handgun.png",
+								"chest_opened_img": "images/items/silver_handgun_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2910,7 +3098,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Balmung"
+								"name": "Balmung",
+								"chest_unopened_img": "images/items/balmung.png",
+								"chest_opened_img": "images/items/balmung_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2936,7 +3126,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Rare Ring"
+								"name": "Rare Ring",
+								"chest_unopened_img": "images/items/rare_ring.png",
+								"chest_opened_img": "images/items/rare_ring_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2962,7 +3154,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Potion"
+								"name": "High Potion",
+								"chest_unopened_img": "images/items/high_potion.png",
+								"chest_opened_img": "images/items/high_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -2993,7 +3187,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Dracula's Tunic"
+								"name": "Dracula's Tunic",
+								"chest_unopened_img": "images/items/dracula's_tunic.png",
+								"chest_opened_img": "images/items/dracula's_tunic_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3045,7 +3241,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mana Prism"
+								"name": "Mana Prism",
+								"chest_unopened_img": "images/items/mana_prism.png",
+								"chest_opened_img": "images/items/mana_prism_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3071,7 +3269,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Tear of Blood"
+								"name": "Tear of Blood",
+								"chest_unopened_img": "images/items/tear_of_blood.png",
+								"chest_opened_img": "images/items/tear_of_blood_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3097,7 +3297,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Gungner"
+								"name": "Gungner",
+								"chest_unopened_img": "images/items/gungner.png",
+								"chest_opened_img": "images/items/gungner_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3149,7 +3351,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Satan's Ring"
+								"name": "Satan's Ring",
+								"chest_unopened_img": "images/items/satan's_ring.png",
+								"chest_opened_img": "images/items/satan's_ring_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3175,7 +3379,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mana Prism"
+								"name": "Mana Prism",
+								"chest_unopened_img": "images/items/mana_prism.png",
+								"chest_opened_img": "images/items/mana_prism_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3201,7 +3407,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Super Potion"
+								"name": "Super Potion",
+								"chest_unopened_img": "images/items/super_potion.png",
+								"chest_opened_img": "images/items/super_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3227,7 +3435,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Kaladbolg"
+								"name": "Kaladbolg",
+								"chest_unopened_img": "images/items/kaladbolg.png",
+								"chest_opened_img": "images/items/kaladbolg_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3258,7 +3468,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Claimh Solais"
+								"name": "Claimh Solais",
+								"chest_unopened_img": "images/items/claimh_solais.png",
+								"chest_opened_img": "images/items/claimh_solais_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3284,7 +3496,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Joyeuse"
+								"name": "Joyeuse",
+								"chest_unopened_img": "images/items/joyeuse.png",
+								"chest_opened_img": "images/items/joyeuse_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3315,7 +3529,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Super Potion"
+								"name": "Super Potion",
+								"chest_unopened_img": "images/items/super_potion.png",
+								"chest_opened_img": "images/items/super_potion_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3341,7 +3557,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "High Mind Up"
+								"name": "High Mind Up",
+								"chest_unopened_img": "images/items/high_mind_up.png",
+								"chest_opened_img": "images/items/high_mind_up_bw.png"
 							}
 						],
 						"map_locations": [
@@ -3367,7 +3585,9 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Mana Prism"
+								"name": "Mana Prism",
+								"chest_unopened_img": "images/items/mana_prism.png",
+								"chest_opened_img": "images/items/mana_prism_bw.png"
 							}
 						],
 						"map_locations": [
