@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Grave Keeper",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "backdash"
+    },
+    {
+        "name": "Skeleton Blaze",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "slide"
+    },
+    {
+        "name": "Malphas",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "djump"
+    },
+    {
+        "name": "Kicker Skeleton",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "kick"
+    },
+    {
+        "name": "Hippogryph",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "zip"
+    },
+    {
+        "name": "Galamoth",
+        "type": "toggle",
+        "img": "images/souls/grey.png",
+        "codes": "jotaro"
+    }
+]

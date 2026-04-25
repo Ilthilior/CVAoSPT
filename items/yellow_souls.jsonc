@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Undine",
+        "type": "toggle",
+        "img": "images/souls/yellow.png",
+        "codes": "jesus"
+    },
+    {
+        "name": "Skula",
+        "type": "toggle",
+        "img": "images/souls/yellow.png",
+        "codes": "dive"
+    },
+    {
+        "name": "Succubus",
+        "type": "toggle",
+        "img": "images/souls/yellow.png",
+        "codes": "heal"
+    }
+]

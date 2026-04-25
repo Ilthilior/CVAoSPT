@@ -14,15 +14,60 @@
 					{
 						"type": "itemgrid",
 						"item_margin": "10, 10",
-						"h_alignment": "left",
+						"h_alignment": "center",
+						"item_size": 48,
 						"rows": [
 							[
-								"toggle",
-								"progressive"
+								"backdash",
+								"slide",
+								"djump"
 							],
 							[
-								"consumable",
-								"progressive_toggle"
+								"kick",
+								"zip",
+								"jotaro"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": 48,
+						"rows": [
+							[
+								"3fire", "dio"
+							],
+							[
+								"swap"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": 48,
+						"rows": [
+							[
+								"glide", "rush"
+							],
+							[
+								"fly", "fast"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": 48,
+						"rows": [
+							[
+								"jesus", "dive"
+							],
+							[
+								"heal"
 							]
 						]
 					}

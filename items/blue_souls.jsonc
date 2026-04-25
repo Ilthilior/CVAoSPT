@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Curly",
+        "type": "toggle",
+        "img": "images/souls/blue.png",
+        "codes": "rush"
+    },
+    {
+        "name": "Black Panther",
+        "type": "toggle",
+        "img": "images/souls/blue.png",
+        "codes": "fast"
+    },
+    {
+        "name": "Flying Armor",
+        "type": "toggle",
+        "img": "images/souls/blue.png",
+        "codes": "glide"
+    },
+    {
+        "name": "Giant Bat",
+        "type": "toggle",
+        "img": "images/souls/blue.png",
+        "codes": "fly"
+    }
+]

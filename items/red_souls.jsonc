@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Flame Demon",
+        "type": "toggle",
+        "img": "images/souls/red.png",
+        "codes": "3fire"
+    },
+    {
+        "name": "Killer Mantle",
+        "type": "toggle",
+        "img": "images/souls/red.png",
+        "codes": "swap"
+    },
+    {
+        "name": "Chronomage",
+        "type": "toggle",
+        "img": "images/souls/red.png",
+        "codes": "dio"
+    }
+]
