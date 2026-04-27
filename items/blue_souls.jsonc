@@ -8,7 +8,7 @@
     {
         "name": "Black Panther",
         "type": "toggle",
-        "img": "images/souls/blue.png",
+        "img": "images/abilities/panther.png",
         "codes": "fast"
     },
     {
@@ -20,7 +20,7 @@
     {
         "name": "Giant Bat",
         "type": "toggle",
-        "img": "images/souls/blue.png",
+        "img": "images/abilities/bat.png",
         "codes": "fly"
     }
 ]

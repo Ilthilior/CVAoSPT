@@ -2,31 +2,31 @@
     {
         "name": "Grave Keeper",
         "type": "toggle",
-        "img": "images/souls/grey.png",
+        "img": "images/abilities/backdash.png",
         "codes": "backdash"
     },
     {
         "name": "Skeleton Blaze",
         "type": "toggle",
-        "img": "images/souls/grey.png",
+        "img": "images/abilities/slide.png",
         "codes": "slide"
     },
     {
         "name": "Malphas",
         "type": "toggle",
-        "img": "images/souls/grey.png",
+        "img": "images/abilities/doublejump.png",
         "codes": "djump"
     },
     {
         "name": "Kicker Skeleton",
         "type": "toggle",
-        "img": "images/souls/grey.png",
+        "img": "images/abilities/cometkick.png",
         "codes": "kick"
     },
     {
         "name": "Hippogryph",
         "type": "toggle",
-        "img": "images/souls/grey.png",
+        "img": "images/abilities/highjump.png",
         "codes": "zip"
     },
     {

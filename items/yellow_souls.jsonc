@@ -2,13 +2,13 @@
     {
         "name": "Undine",
         "type": "toggle",
-        "img": "images/souls/yellow.png",
+        "img": "images/abilities/waterwalk.png",
         "codes": "jesus"
     },
     {
         "name": "Skula",
         "type": "toggle",
-        "img": "images/souls/yellow.png",
+        "img": "images/abilities/swim.png",
         "codes": "dive"
     },
     {
