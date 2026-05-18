@@ -417,7 +417,7 @@
 				]
 			},
 			{
-				"name": "026_0",
+				"name": "026",
 				"children": [
 					{
 						"name": "Castle Corridor",
@@ -427,30 +427,7 @@
 								"name": "Armor of Fire",
 								"chest_unopened_img": "images/items/armor_of_fire.png",
 								"chest_opened_img": "images/items/armor_of_fire_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 399
 							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 399
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "026_1",
-				"children": [
-					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
 							{
 								"name": "Potion",
 								"chest_unopened_img": "images/items/potion.png",
@@ -957,7 +934,7 @@
 		"name": "Study Locations",
 		"children": [
 			{
-				"name": "200_0",
+				"name": "200",
 				"children": [
 					{
 						"name": "Study",
@@ -967,30 +944,7 @@
 								"name": "Melon",
 								"chest_unopened_img": "images/items/melon.png",
 								"chest_opened_img": "images/items/melon_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1035,
-								"y": 639
 							},
-							{
-								"map": "Combined Castle",
-								"x": 1035,
-								"y": 639
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "200_1",
-				"children": [
-					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
 							{
 								"name": "Kaiser Knuckle",
 								"chest_unopened_img": "images/items/kaiser_knuckle.png",
@@ -1575,7 +1529,7 @@
 		"name": "Inner Quarters Locations",
 		"children": [
 			{
-				"name": "400_0",
+				"name": "400",
 				"children": [
 					{
 						"name": "Inner Quarters",
@@ -1585,30 +1539,7 @@
 								"name": "Dainslef",
 								"chest_unopened_img": "images/items/dainslef.png",
 								"chest_opened_img": "images/items/dainslef_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 411,
-								"y": 279
 							},
-							{
-								"map": "Combined Castle",
-								"x": 411,
-								"y": 279
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "400_1",
-				"children": [
-					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
 							{
 								"name": "Ancient Book 2",
 								"chest_unopened_img": "images/items/ancient_book_2.png",
@@ -3063,7 +2994,7 @@
 				]
 			},
 			{
-				"name": "810_0",
+				"name": "810",
 				"children": [
 					{
 						"name": "The Arena",
@@ -3073,30 +3004,7 @@
 								"name": "Silver Handgun",
 								"chest_unopened_img": "images/items/silver_handgun.png",
 								"chest_opened_img": "images/items/silver_handgun_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 315,
-								"y": 783
 							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 783
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "810_1",
-				"children": [
-					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
 							{
 								"name": "Balmung",
 								"chest_unopened_img": "images/items/balmung.png",
@@ -3180,7 +3088,7 @@
 		"name": "Top Floor Locations",
 		"children": [
 			{
-				"name": "900_0",
+				"name": "900",
 				"children": [
 					{
 						"name": "Top Floor",
@@ -3190,30 +3098,7 @@
 								"name": "Dracula's Tunic",
 								"chest_unopened_img": "images/items/dracula's_tunic.png",
 								"chest_opened_img": "images/items/dracula's_tunic_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 135
 							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 135
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "900_1",
-				"children": [
-					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
 							{
 								"name": "Black Panther"
 							}
