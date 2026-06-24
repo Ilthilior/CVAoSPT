@@ -8,7 +8,7 @@
 					{
 						"name": "Castle Corridor",
 						"access_rules": [
-						"hjump, djump, fly"
+						"$smalluppies"
 						],
 						"sections": [
 							{
