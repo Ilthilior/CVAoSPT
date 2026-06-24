@@ -7,7 +7,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Lucky Charm",
@@ -35,7 +37,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$biguppies"
+						],
 						"sections": [
 							{
 								"name": "Vjaya",
@@ -63,7 +67,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Cestus",
@@ -173,7 +179,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$biguppies"
+						],
 						"sections": [
 							{
 								"name": "Lance",
@@ -283,7 +291,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$widies"
+						],
 						"sections": [
 							{
 								"name": "Potion",
@@ -311,7 +321,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$widies"
+						],
 						"sections": [
 							{
 								"name": "Leather Plate",
@@ -365,7 +377,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "Yasutsuna",
@@ -421,7 +435,9 @@
 				"children": [
 					{
 						"name": "Castle Corridor",
-						"access_rules": [],
+						"access_rules": [
+						"$biguppies"
+						],
 						"sections": [
 							{
 								"name": "Armor of Fire",
@@ -599,7 +615,9 @@
 				"children": [
 					{
 						"name": "Chapel",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "High Mind Up",
@@ -683,7 +701,9 @@
 				"children": [
 					{
 						"name": "Chapel",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "High Potion",
@@ -739,7 +759,9 @@
 				"children": [
 					{
 						"name": "Chapel",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$100",
@@ -767,7 +789,9 @@
 				"children": [
 					{
 						"name": "Chapel",
-						"access_rules": [],
+						"access_rules": [
+						"biguppies"
+						],
 						"sections": [
 							{
 								"name": "Tallhammer",
@@ -1109,7 +1133,9 @@
 				"children": [
 					{
 						"name": "Study",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Broadsword",
@@ -1336,7 +1362,9 @@
 				"children": [
 					{
 						"name": "Dance Hall",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "Cutall",
@@ -1364,7 +1392,9 @@
 				"children": [
 					{
 						"name": "Dance Hall",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Mana Prism",
@@ -1392,7 +1422,9 @@
 				"children": [
 					{
 						"name": "Dance Hall",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "High Potion",
@@ -1566,7 +1598,9 @@
 				"children": [
 					{
 						"name": "Inner Quarters",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "High Mind Up",
@@ -1594,7 +1628,9 @@
 				"children": [
 					{
 						"name": "Inner Quarters",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "High Potion",
@@ -1650,7 +1686,9 @@
 				"children": [
 					{
 						"name": "Inner Quarters",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Hrunting",
@@ -1678,7 +1716,9 @@
 				"children": [
 					{
 						"name": "Inner Quarters",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Undine"
@@ -1730,7 +1770,9 @@
 				"children": [
 					{
 						"name": "Inner Quarters",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Mind Up",
@@ -1791,7 +1833,9 @@
 				"children": [
 					{
 						"name": "Floating Garden",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$1,000",
@@ -1819,7 +1863,9 @@
 				"children": [
 					{
 						"name": "Floating Garden",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$1,000",
@@ -1847,7 +1893,9 @@
 				"children": [
 					{
 						"name": "Floating Garden",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$500",
@@ -1875,7 +1923,9 @@
 				"children": [
 					{
 						"name": "Floating Garden",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$500",
@@ -1903,7 +1953,9 @@
 				"children": [
 					{
 						"name": "Floating Garden",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$500",
@@ -2044,7 +2096,9 @@
 				"children": [
 					{
 						"name": "Clock Tower",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "Death's Sickle",
@@ -2072,7 +2126,9 @@
 				"children": [
 					{
 						"name": "Clock Tower",
-						"access_rules": [],
+						"access_rules": [
+						"djump"
+						],
 						"sections": [
 							{
 								"name": "$2,000",
@@ -2100,7 +2156,9 @@
 				"children": [
 					{
 						"name": "Clock Tower",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "Death's Robe",
@@ -2189,7 +2247,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies"
+						],
 						"sections": [
 							{
 								"name": "Tasty Meat",
@@ -2245,7 +2305,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies"
+						],
 						"sections": [
 							{
 								"name": "Rahab's Sword",
@@ -2329,7 +2391,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$slidies"
+						],
 						"sections": [
 							{
 								"name": "Mana Prism",
@@ -2357,7 +2421,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"slide, dive"
+						],
 						"sections": [
 							{
 								"name": "Super Potion",
@@ -2385,7 +2451,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies"
+						],
 						"sections": [
 							{
 								"name": "Super Potion",
@@ -2413,7 +2481,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies, $biguppies"
+						],
 						"sections": [
 							{
 								"name": "Milican's Sword",
@@ -2523,7 +2593,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "$1,000",
@@ -2607,7 +2679,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$biguppies, $divies, wwalk"
+						],
 						"sections": [
 							{
 								"name": "$2,000",
@@ -2635,7 +2709,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies"
+						],
 						"sections": [
 							{
 								"name": "Rune Ring",
@@ -2663,7 +2739,9 @@
 				"children": [
 					{
 						"name": "Underground Reservoir",
-						"access_rules": [],
+						"access_rules": [
+						"$divies"
+						],
 						"sections": [
 							{
 								"name": "Osafune",
@@ -3151,7 +3229,9 @@
 				"children": [
 					{
 						"name": "Top Floor",
-						"access_rules": [],
+						"access_rules": [
+						"bat"
+						],
 						"sections": [
 							{
 								"name": "Tear of Blood",
@@ -3179,7 +3259,9 @@
 				"children": [
 					{
 						"name": "Top Floor",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Gungner",
@@ -3317,7 +3399,9 @@
 				"children": [
 					{
 						"name": "Top Floor",
-						"access_rules": [],
+						"access_rules": [
+						"$biguppies"
+						],
 						"sections": [
 							{
 								"name": "Kaladbolg",
@@ -3378,7 +3462,9 @@
 				"children": [
 					{
 						"name": "Forbidden Area",
-						"access_rules": [],
+						"access_rules": [
+						"$smalluppies"
+						],
 						"sections": [
 							{
 								"name": "Joyeuse",

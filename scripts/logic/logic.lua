@@ -26,9 +26,21 @@ end
 
 -- Move Macros
 function biguppies()
-    return has("djump") or has("bat") or has("zip")
+    return has("bat") or has("hjump")
+end
+
+function smalluppies()
+    return biguppies() or has("djump")
 end
 
 function widies()
-    return has("glide") or has("fast")
+    return has smalluppies or has ("glide")
+end
+
+function slidies()
+    return has("slide") or has("bat")
+end
+
+function divies()
+	return has("dive")
 end
