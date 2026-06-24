@@ -34,7 +34,7 @@ function smalluppies()
 end
 
 function widies()
-    return has smalluppies or has ("glide")
+    return has smalluppies() or has ("glide")
 end
 
 function slidies()
