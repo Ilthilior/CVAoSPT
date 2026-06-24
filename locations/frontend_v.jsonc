@@ -1,0 +1,3280 @@
+[
+	{
+		"name": "Castle Corridor Front End (Vanilla)",
+		"children": [
+			{
+				"name": "000",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Lucky Charm",
+								"ref": "Castle Corridor Locations (Vanilla)/000/Lucky Charm"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 123,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 123,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "002_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Vjaya",
+								"ref": "Castle Corridor Locations (Vanilla)/002/Vjaya"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 195,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "002_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Cestus",
+								"ref": "Castle Corridor Locations (Vanilla)/002/Cestus"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 195,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 495
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Short Sword",
+								"ref": "Castle Corridor Locations (Vanilla)/005/Short Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 567
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Cape",
+								"ref": "Castle Corridor Locations (Vanilla)/005/Cape"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "005_2",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Grave Keeper",
+								"ref": "Castle Corridor Locations (Vanilla)/005/Grave Keeper"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 567
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "009",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Lance",
+								"ref": "Castle Corridor Locations (Vanilla)/009/Lance"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 387,
+								"y": 543
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 543
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00A",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Creaking Skull",
+								"ref": "Castle Corridor Locations (Vanilla)/00A/Creaking Skull"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 435,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 435,
+								"y": 567
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00B",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Mind Up",
+								"ref": "Castle Corridor Locations (Vanilla)/00B/Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00D",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Potion",
+								"ref": "Castle Corridor Locations (Vanilla)/00D/Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 507,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 507,
+								"y": 447
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00F_0",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Potion",
+								"ref": "Castle Corridor Locations (Vanilla)/00F/Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 579,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 579,
+								"y": 447
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "00F_1",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Leather Plate",
+								"ref": "Castle Corridor Locations (Vanilla)/00F/Leather Plate"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 531,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 531,
+								"y": 447
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "010",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Flying Armor",
+								"ref": "Castle Corridor Locations (Vanilla)/010/Flying Armor"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 603,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 603,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "019",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Yasutsuna",
+								"ref": "Castle Corridor Locations (Vanilla)/019/Yasutsuna"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1035,
+								"y": 447
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "023",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Castle Map 1",
+								"ref": "Castle Corridor Locations (Vanilla)/023/Castle Map 1"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 483,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 483,
+								"y": 567
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "026",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Armor of Fire",
+								"ref": "Castle Corridor Locations (Vanilla)/026/Armor of Fire"
+							},
+							{
+								"name": "Potion",
+								"ref": "Castle Corridor Locations (Vanilla)/026/Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 399
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "027",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Copper Plate",
+								"ref": "Castle Corridor Locations (Vanilla)/027/Copper Plate"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 399
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "028",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Scarf",
+								"ref": "Castle Corridor Locations (Vanilla)/028/Scarf"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 423
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "029",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "$500",
+								"ref": "Castle Corridor Locations (Vanilla)/029/$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 495
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "02C",
+				"children": [
+					{
+						"name": "Castle Corridor",
+						"sections": [
+							{
+								"name": "Potion",
+								"ref": "Castle Corridor Locations (Vanilla)/02C/Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1035,
+								"y": 495
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Chapel Front End (Vanilla)",
+		"children": [
+			{
+				"name": "101",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Anti-Venom",
+								"ref": "Chapel Locations (Vanilla)/101/Anti-Venom"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_0",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "High Mind Up",
+								"ref": "Chapel Locations (Vanilla)/103/High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1131,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1131,
+								"y": 447
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_1",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Chapel Locations (Vanilla)/103/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 423
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_2",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Bamboo Sword",
+								"ref": "Chapel Locations (Vanilla)/103/Bamboo Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_3",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "High Potion",
+								"ref": "Chapel Locations (Vanilla)/103/High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1131,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1131,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "103_4",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Mind Up",
+								"ref": "Chapel Locations (Vanilla)/103/Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "105",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Chapel Locations (Vanilla)/105/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 495
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "106",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Tallhammer",
+								"ref": "Chapel Locations (Vanilla)/106/Tallhammer"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 495
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 495
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "106_1",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Manticore",
+								"ref": "Chapel Locations (Vanilla)/106/Manticore"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 567
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 567
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "107",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Rapier",
+								"ref": "Chapel Locations (Vanilla)/107/Rapier"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1275,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1275,
+								"y": 423
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "108_0",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "$1,000",
+								"ref": "Chapel Locations (Vanilla)/108/$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1275,
+								"y": 471
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1275,
+								"y": 471
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "108_1",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Chapel Locations (Vanilla)/108/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "109",
+				"children": [
+					{
+						"name": "Chapel",
+						"sections": [
+							{
+								"name": "Silk Robe",
+								"ref": "Chapel Locations (Vanilla)/109/Silk Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 543
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 543
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Study Front End (Vanilla)",
+		"children": [
+			{
+				"name": "200",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Melon",
+								"ref": "Study Locations (Vanilla)/200/Melon"
+							},
+							{
+								"name": "Kaiser Knuckle",
+								"ref": "Study Locations (Vanilla)/200/Kaiser Knuckle"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1035,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1035,
+								"y": 639
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "201",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Study Locations (Vanilla)/201/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1083,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1083,
+								"y": 639
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "202",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Uncurse Potion",
+								"ref": "Study Locations (Vanilla)/202/Uncurse Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 639
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "205",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Malphas",
+								"ref": "Study Locations (Vanilla)/205/Malphas"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 711
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "208",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Hammer",
+								"ref": "Study Locations (Vanilla)/208/Hammer"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "209",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Heart Pendant",
+								"ref": "Study Locations (Vanilla)/209/Heart Pendant"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 615
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20A",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Broadsword",
+								"ref": "Study Locations (Vanilla)/20A/Broadsword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1251,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1251,
+								"y": 663
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20B",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Whip Sword",
+								"ref": "Study Locations (Vanilla)/20B/Whip Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 687
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20E",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Ancient Book 1",
+								"ref": "Study Locations (Vanilla)/20E/Ancient Book 1"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1059,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1059,
+								"y": 711
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "20F",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Great Armor",
+								"ref": "Study Locations (Vanilla)/20F/Great Armor"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1131,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1131,
+								"y": 711
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "211",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Study Locations (Vanilla)/211/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1203,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1203,
+								"y": 687
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "215",
+				"children": [
+					{
+						"name": "Study",
+						"sections": [
+							{
+								"name": "Bastard Sword",
+								"ref": "Study Locations (Vanilla)/215/Bastard Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1155,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1155,
+								"y": 615
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dance Hall Front End (Vanilla)",
+		"children": [
+			{
+				"name": "301",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Samurai Armor",
+								"ref": "Dance Hall Locations (Vanilla)/301/Samurai Armor"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 195,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "303",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Dance Hall Locations (Vanilla)/303/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 327
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "306",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Cutall",
+								"ref": "Dance Hall Locations (Vanilla)/306/Cutall"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 423
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "307",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Mana Prism",
+								"ref": "Dance Hall Locations (Vanilla)/307/Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 303
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 303
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "308",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "High Potion",
+								"ref": "Dance Hall Locations (Vanilla)/308/High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 471
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 471
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "30A",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Skeleton Blaze",
+								"ref": "Dance Hall Locations (Vanilla)/30A/Skeleton Blaze"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 243,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 243,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "30C",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "$100",
+								"ref": "Dance Hall Locations (Vanilla)/30C/$100"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 291,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 291,
+								"y": 327
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "310",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Sherman Ring",
+								"ref": "Dance Hall Locations (Vanilla)/310/Sherman Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 387,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "313",
+				"children": [
+					{
+						"name": "Dance Hall",
+						"sections": [
+							{
+								"name": "Big Golem",
+								"ref": "Dance Hall Locations (Vanilla)/313/Big Golem"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 267,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 375
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Inner Quarters Front End (Vanilla)",
+		"children": [
+			{
+				"name": "400",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Dainslef",
+								"ref": "Inner Quarters Locations (Vanilla)/400/Dainslef"
+							},
+							{
+								"name": "Ancient Book 2",
+								"ref": "Inner Quarters Locations (Vanilla)/400/Ancient Book 2"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 411,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 411,
+								"y": 279
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "403",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "High Mind Up",
+								"ref": "Inner Quarters Locations (Vanilla)/403/High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "405",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "High Potion",
+								"ref": "Inner Quarters Locations (Vanilla)/405/High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 483,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 483,
+								"y": 399
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "409",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Ninja Suit",
+								"ref": "Inner Quarters Locations (Vanilla)/409/Ninja Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 507,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 507,
+								"y": 399
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "40A_0",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Hrunting",
+								"ref": "Inner Quarters Locations (Vanilla)/40A/Hrunting"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 579,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 579,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "40A_1",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Undine",
+								"ref": "Inner Quarters Locations (Vanilla)/40A/Undine"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 531,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 531,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "40E",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Headhunter",
+								"ref": "Inner Quarters Locations (Vanilla)/40E/Headhunter"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 555,
+								"y": 303
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 303
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "412",
+				"children": [
+					{
+						"name": "Inner Quarters",
+						"sections": [
+							{
+								"name": "Mind Up",
+								"ref": "Inner Quarters Locations (Vanilla)/412/Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 627,
+								"y": 399
+							},
+							{
+								"map": "Combined Castle",
+								"x": 627,
+								"y": 399
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Floating Garden Front End (Vanilla)",
+		"children": [
+			{
+				"name": "503",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "Castle Map 3",
+								"ref": "Floating Garden Locations (Vanilla)/503/Castle Map 3"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 723,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 723,
+								"y": 519
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "504_0",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "$1,000",
+								"ref": "Floating Garden Locations (Vanilla)/504/$1,000 Left"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "504_1",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "$1,000",
+								"ref": "Floating Garden Locations (Vanilla)/504/$1,000 Right"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 291,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 291,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "509",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "$500",
+								"ref": "Floating Garden Locations (Vanilla)/509/$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1227,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1227,
+								"y": 279
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "50A",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "$500",
+								"ref": "Floating Garden Locations (Vanilla)/50A/$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 207
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 207
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "50D",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "$500",
+								"ref": "Floating Garden Locations (Vanilla)/50D/$500"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 411,
+								"y": 111
+							},
+							{
+								"map": "Combined Castle",
+								"x": 411,
+								"y": 111
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clock Tower Front End (Vanilla)",
+		"children": [
+			{
+				"name": "603",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Pitch Black Suit",
+								"ref": "Clock Tower Locations (Vanilla)/603/Pitch Black Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 423
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 423
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "607",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Death",
+								"ref": "Clock Tower Locations (Vanilla)/607/Death"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 963,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 963,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "609",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Burtgang",
+								"ref": "Clock Tower Locations (Vanilla)/609/Burtgang"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 987,
+								"y": 375
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 375
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "611",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Skula",
+								"ref": "Clock Tower Locations (Vanilla)/611/Skula"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 915,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 915,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "613",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Death's Sickle",
+								"ref": "Clock Tower Locations (Vanilla)/613/Death's Sickle"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 987,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "615",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "$2,000",
+								"ref": "Clock Tower Locations (Vanilla)/615/$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 963,
+								"y": 231
+							},
+							{
+								"map": "Combined Castle",
+								"x": 963,
+								"y": 231
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "617",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Death's Robe",
+								"ref": "Clock Tower Locations (Vanilla)/617/Death's Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 939,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 939,
+								"y": 279
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "61B",
+				"children": [
+					{
+						"name": "Clock Tower",
+						"sections": [
+							{
+								"name": "Mystletain",
+								"ref": "Clock Tower Locations (Vanilla)/61B/Mystletain"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 327
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Underground Reservoir Front End (Vanilla)",
+		"children": [
+			{
+				"name": "700",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Pendant",
+								"ref": "Underground Reservoir Locations (Vanilla)/700/Pendant"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 615
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "701",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Tasty Meat",
+								"ref": "Underground Reservoir Locations (Vanilla)/701/Tasty Meat"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 615
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "702",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Elfin Robe",
+								"ref": "Underground Reservoir Locations (Vanilla)/702/Elfin Robe"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 387,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 387,
+								"y": 615
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "703",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Rahab's Sword",
+								"ref": "Underground Reservoir Locations (Vanilla)/703/Rahab's Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 435,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 435,
+								"y": 663
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "708",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "High Mind Up",
+								"ref": "Underground Reservoir Locations (Vanilla)/708/High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 831
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 831
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "709",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Pudding",
+								"ref": "Underground Reservoir Locations (Vanilla)/709/Pudding"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 459,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 459,
+								"y": 879
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70C",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Mana Prism",
+								"ref": "Underground Reservoir Locations (Vanilla)/70C/Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 531,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 531,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70E",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Super Potion",
+								"ref": "Underground Reservoir Locations (Vanilla)/70E/Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 555,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 663
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "70F",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Super Potion",
+								"ref": "Underground Reservoir Locations (Vanilla)/70F/Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 867,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 867,
+								"y": 711
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "711",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Milican's Sword",
+								"ref": "Underground Reservoir Locations (Vanilla)/711/Milican's Sword"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 699,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 699,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "715",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Armor of Water",
+								"ref": "Underground Reservoir Locations (Vanilla)/715/Armor of Water"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 795,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "716",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Galamoth",
+								"ref": "Underground Reservoir Locations (Vanilla)/716/Galamoth"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 879
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "718",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Ronginus' Spear",
+								"ref": "Underground Reservoir Locations (Vanilla)/718/Ronginus' Spear"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 795,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 663
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "719_0",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "$1,000",
+								"ref": "Underground Reservoir Locations (Vanilla)/719/$1,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 819,
+								"y": 615
+							},
+							{
+								"map": "Combined Castle",
+								"x": 819,
+								"y": 615
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "719_1",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Handgun",
+								"ref": "Underground Reservoir Locations (Vanilla)/719/Handgun"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 843,
+								"y": 639
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 639
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71C",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Ancient Book 3",
+								"ref": "Underground Reservoir Locations (Vanilla)/71C/Ancient Book 3"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 915,
+								"y": 543
+							},
+							{
+								"map": "Combined Castle",
+								"x": 915,
+								"y": 543
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71D",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "$2,000",
+								"ref": "Underground Reservoir Locations (Vanilla)/71D/$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 891,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 891,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "71F",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Rune Ring",
+								"ref": "Underground Reservoir Locations (Vanilla)/71F/Rune Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 987,
+								"y": 591
+							},
+							{
+								"map": "Combined Castle",
+								"x": 987,
+								"y": 591
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "720",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Osafune",
+								"ref": "Underground Reservoir Locations (Vanilla)/720/Osafune"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 963,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 963,
+								"y": 687
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "721_0",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Super Potion",
+								"ref": "Underground Reservoir Locations (Vanilla)/721/Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 843,
+								"y": 759
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 759
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "721_1",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Eversing",
+								"ref": "Underground Reservoir Locations (Vanilla)/721/Eversing"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 843,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 663
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "722",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "$2,000",
+								"ref": "Underground Reservoir Locations (Vanilla)/722/$2,000"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 555,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 555,
+								"y": 855
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "725",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Legion",
+								"ref": "Underground Reservoir Locations (Vanilla)/725/Legion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 723,
+								"y": 879
+							},
+							{
+								"map": "Combined Castle",
+								"x": 723,
+								"y": 879
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "733",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "High Potion",
+								"ref": "Underground Reservoir Locations (Vanilla)/733/High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 855
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "736",
+				"children": [
+					{
+						"name": "Underground Reservoir",
+						"sections": [
+							{
+								"name": "Gold Ring",
+								"ref": "Underground Reservoir Locations (Vanilla)/736/Gold Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 867,
+								"y": 855
+							},
+							{
+								"map": "Combined Castle",
+								"x": 867,
+								"y": 855
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "The Arena Front End (Vanilla)",
+		"children": [
+			{
+				"name": "800",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Giant Bat",
+								"ref": "The Arena Locations (Vanilla)/800/Giant Bat"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 123,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 123,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "801",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Balore",
+								"ref": "The Arena Locations (Vanilla)/801/Balore"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 171,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 171,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "802",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Laevatain",
+								"ref": "The Arena Locations (Vanilla)/802/Laevatain"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 195,
+								"y": 687
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 687
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "808",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Black Cloak",
+								"ref": "The Arena Locations (Vanilla)/808/Black Cloak"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 219,
+								"y": 711
+							},
+							{
+								"map": "Combined Castle",
+								"x": 219,
+								"y": 711
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "80F",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Olrox's Suit",
+								"ref": "The Arena Locations (Vanilla)/80F/Olrox's Suit"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 315,
+								"y": 759
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 759
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "810",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Silver Handgun",
+								"ref": "The Arena Locations (Vanilla)/810/Silver Handgun"
+							},
+							{
+								"name": "Balmung",
+								"ref": "The Arena Locations (Vanilla)/810/Balmung"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 315,
+								"y": 783
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 783
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "811",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "Rare Ring",
+								"ref": "The Arena Locations (Vanilla)/811/Rare Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 315,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "812",
+				"children": [
+					{
+						"name": "The Arena",
+						"sections": [
+							{
+								"name": "High Potion",
+								"ref": "The Arena Locations (Vanilla)/812/High Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 339,
+								"y": 663
+							},
+							{
+								"map": "Combined Castle",
+								"x": 339,
+								"y": 663
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Top Floor Front End (Vanilla)",
+		"children": [
+			{
+				"name": "900",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Dracula's Tunic",
+								"ref": "Top Floor Locations (Vanilla)/900/Dracula's Tunic"
+							},
+							{
+								"name": "Black Panther",
+								"ref": "Top Floor Locations (Vanilla)/900/Black Panther"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 135
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 135
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "901_0",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Mana Prism",
+								"ref": "Top Floor Locations (Vanilla)/901/Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 159
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 159
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "901_1",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Tear of Blood",
+								"ref": "Top Floor Locations (Vanilla)/901/Tear of Blood"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 135
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 135
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "902",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Gungner",
+								"ref": "Top Floor Locations (Vanilla)/902/Gungner"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 279
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "906",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Hippogryph",
+								"ref": "Top Floor Locations (Vanilla)/906/Hippogryph"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 279
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 279
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "908",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Satan's Ring",
+								"ref": "Top Floor Locations (Vanilla)/908/Satan's Ring"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 747,
+								"y": 327
+							},
+							{
+								"map": "Combined Castle",
+								"x": 747,
+								"y": 327
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "910",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Mana Prism",
+								"ref": "Top Floor Locations (Vanilla)/910/Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 795,
+								"y": 159
+							},
+							{
+								"map": "Combined Castle",
+								"x": 795,
+								"y": 159
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "915",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Super Potion",
+								"ref": "Top Floor Locations (Vanilla)/915/Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 843,
+								"y": 351
+							},
+							{
+								"map": "Combined Castle",
+								"x": 843,
+								"y": 351
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "917",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Kaladbolg",
+								"ref": "Top Floor Locations (Vanilla)/917/Kaladbolg"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 675,
+								"y": 183
+							},
+							{
+								"map": "Combined Castle",
+								"x": 675,
+								"y": 183
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Forbidden Area Front End (Vanilla)",
+		"children": [
+			{
+				"name": "A04",
+				"children": [
+					{
+						"name": "Forbidden Area",
+						"sections": [
+							{
+								"name": "Claimh Solais",
+								"ref": "Forbidden Area Locations (Vanilla)/A04/Claimh Solais"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1107,
+								"y": 807
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1107,
+								"y": 807
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "A06",
+				"children": [
+					{
+						"name": "Forbidden Area",
+						"sections": [
+							{
+								"name": "Joyeuse",
+								"ref": "Forbidden Area Locations (Vanilla)/A06/Joyeuse"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 1011,
+								"y": 831
+							},
+							{
+								"map": "Combined Castle",
+								"x": 1011,
+								"y": 831
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Chaotic Realm Front End (Vanilla)",
+		"children": [
+			{
+				"name": "B18",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"sections": [
+							{
+								"name": "Super Potion",
+								"ref": "Chaotic Realm Locations (Vanilla)/B18/Super Potion"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 747,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 267,
+								"y": 1047
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "B1C",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"sections": [
+							{
+								"name": "High Mind Up",
+								"ref": "Chaotic Realm Locations (Vanilla)/B1C/High Mind Up"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 795,
+								"y": 447
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 975
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "B1D",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"sections": [
+							{
+								"name": "Mana Prism",
+								"ref": "Chaotic Realm Locations (Vanilla)/B1D/Mana Prism"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 795,
+								"y": 519
+							},
+							{
+								"map": "Combined Castle",
+								"x": 315,
+								"y": 1047
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

@@ -7,14 +7,20 @@
 	"min_poptracker_version": "0.25.9",
 	"target_poptracker_version": "0.35.1",
 	"variants": {
-		"standard": {
-			"display_name": "Map Tracker (Horizontal)",
+		"vanilla_h": {
+			"display_name": "Vanilla Game Map Tracker (Horizontal)"
+		},
+		"vanilla_v": {
+			"display_name": "Vanilla Game Map Tracker (Vertical)"
+		},
+		"archipelago_h": {
+			"display_name": "Archipelago Map Tracker (Horizontal)",
 			"flags": [
 				"ap"
 			]
 		},
-		"var_vertical": {
-			"display_name": "Map Tracker (Vertcal)",
+		"archipelago_v": {
+			"display_name": "Archipelago Map Tracker (Vertcal)",
 			"flags": [
 				"ap"
 			]
