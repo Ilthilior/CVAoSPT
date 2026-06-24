@@ -378,7 +378,7 @@
 					{
 						"name": "Castle Corridor",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
@@ -1363,7 +1363,7 @@
 					{
 						"name": "Dance Hall",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
@@ -1423,7 +1423,7 @@
 					{
 						"name": "Dance Hall",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
@@ -2097,7 +2097,7 @@
 					{
 						"name": "Clock Tower",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
@@ -2157,7 +2157,7 @@
 					{
 						"name": "Clock Tower",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
@@ -2943,7 +2943,7 @@
 						"access_rules": [],
 						"sections": [
 							{
-								"name": "Giant Bat"
+								"name": "Giant fly"
 							}
 						],
 						"map_locations": [
@@ -3230,7 +3230,7 @@
 					{
 						"name": "Top Floor",
 						"access_rules": [
-						"bat"
+						"fly"
 						],
 						"sections": [
 							{
