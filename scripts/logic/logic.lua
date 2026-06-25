@@ -2,19 +2,19 @@
 -- don't be afraid to use custom logic functions. it will make many things a lot easier to maintain, for example by adding logging.
 -- to see how this function gets called, check: locations/locations.json
 -- example:
-function has_more_then_n_consumable(n)
-    local count = Tracker:ProviderCountForCode('consumable')
-    local val = (count > tonumber(n))
-    if ENABLE_DEBUG_LOG then
-        print(string.format("called has_more_then_n_consumable: count: %s, n: %s, val: %s", count, n, val))
-    end
-    if val then
-        return 1 -- 1 => access is in logic
-    end
-    return 0 -- 0 => no access
-end
+-- function has_more_then_n_consumable(n)
+--     local count = Tracker:ProviderCountForCode('consumable')
+--     local val = (count > tonumber(n))
+--     if ENABLE_DEBUG_LOG then
+--         print(string.format("called has_more_then_n_consumable: count: %s, n: %s, val: %s", count, n, val))
+--     end
+--     if val then
+--         return 1 -- 1 => access is in logic
+--     end
+--     return 0 -- 0 => no access
+-- end
 
-function has(item, amount)
+local function has(item, amount)
     local count = Tracker:ProviderCountForCode(item)
     amount = tonumber(amount)
     if not amount then
@@ -26,9 +26,21 @@ end
 
 -- Move Macros
 function biguppies()
-    return has("djump") or has("bat") or has("zip")
+    return has("fly") or has("zip")
+end
+
+function smalluppies()
+    return biguppies() or has("djump")
 end
 
 function widies()
-    return has("glide") or has("fast")
+    return smalluppies() or has ("glide")
+end
+
+function slidies()
+    return has("slide") or has("fly")
+end
+
+function divies()
+	return has("dive")
 end
