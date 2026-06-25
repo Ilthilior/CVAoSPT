@@ -1,0 +1,1206 @@
+[
+	{
+		"name": "Castle Corridor Locations (AP)",
+		"chest_unopened_img": "images/items/chest.png",
+		"chest_opened_img": "images/items/chest_bw.png",
+		"children": [
+			{
+				"name": "Entrance Parapet",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Outside Warp",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Suspended Platform"
+					},
+					{
+						"name": "Alcove"
+					}
+				]
+			},
+			{
+				"name": "Fountain Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Left Stairs"
+					},
+					{
+						"name": "Top Staircase"
+					},
+					{
+						"name": "In Front of Fountain"
+					}
+				]
+			},
+			{
+				"name": "Tallest Ascent",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Creaking Skull Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Hidden Room Behind Peeping Eye",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "White Dragon Hallway",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Marble Staircase Pyramid",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Right Ledge"
+					},
+					{
+						"name": "Left Ledge"
+					}
+				]
+			},
+			{
+				"name": "Reservior Entrance",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Tiny Alcove",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Post-Creaking Skull Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Marble Staircase Underhang",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Left Ledge"
+					},
+					{
+						"name": "Right Ledge"
+					}
+				]
+			},
+			{
+				"name": "Catobelpas Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "White Dragon Ledge",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Eastern Reservoir Left Annex",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Eastern Reservoir Right Annex",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Chapel Locations (Vanilla)",
+		"children": [
+			{
+				"name": "Cathedral Cache",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Big Belfry",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Top Left Corner Left Ledge"
+					},
+					{
+						"name": "Bottom Left"
+					},
+					{
+						"name": "Center Left"
+					},
+					{
+						"name": "Top Left Corner Right Ledge"
+					},
+					{
+						"name": "Top Right"
+					}
+				]
+			},
+			{
+				"name": "Cathedral",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Manticore Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Alcove"
+					},
+					{
+						"name": "Manticore"
+					}
+				]
+			},
+			{
+				"name": "Attic",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Grand Staircase",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Cache"
+					},
+					{
+						"name": "Right Nook"
+					}
+				]
+			},
+			{
+				"name": "Underneath Grand Staircase",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Study Locations (Vanilla)",
+		"children": [
+			{
+				"name": "Hidden Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Atop Stairs"
+					},
+					{
+						"name": "Hard Mode Item"
+					}
+				]
+			},
+			{
+				"name": "Ectoplasm Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Evil Butcher hallway",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Hammer's Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Malphas"
+					}
+				]
+			},
+			{
+				"name": "Top Cache",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Box Room Ceiling",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Box Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "After Demon Door",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Behind Tunnel",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Great Armor Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Bottom Cache",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Student Witch Library",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dance Hall Locations (Vanilla)",
+		"children": [
+			{
+				"name": "Hidden Room Behind Minotaur",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Big Window Room Left Annex",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Grand Ballroom",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Big Window Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Wine Cellar Underneath Killer Doll",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Wine Cellar Basement",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Big Window Room Right Annex",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Hidden Ceiling Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Big Golem Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Inner Quarters Locations (Vanilla)",
+		"children": [
+			{
+				"name": "West Wing Atrium",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Left Item"
+					},
+					{
+						"name": "Right Item"
+					}
+				]
+			},
+			{
+				"name": "Western Exit",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Secret Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Secreter Room",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Stormy Tower",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Left Parapet"
+					},
+					{
+						"name": "Right Parapet"
+					}
+				]
+			},
+			{
+				"name": "Headhunter Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
+				"name": "Lower Quarters Lobby",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Floating Garden Locations (Vanilla)",
+		"children": [
+			{
+				"name": "503",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Castle Map 3",
+						"chest_unopened_img": "images/items/castle_map_3.png",
+						"chest_opened_img": "images/items/castle_map_3_bw.png"
+					}
+				]
+			},
+			{
+				"name": "504",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$1,000 Left",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
+					{
+						"name": "$1,000 Right",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "509",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "50A",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "50D",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Clock Tower Locations (Vanilla)",
+		"children": [
+			{
+				"name": "603",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Pitch Black Suit",
+						"chest_unopened_img": "images/items/pitch_black_suit.png",
+						"chest_opened_img": "images/items/pitch_black_suit_bw.png"
+					}
+				]
+			},
+			{
+				"name": "607",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Death"
+					}
+				]
+			},
+			{
+				"name": "609",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Burtgang",
+						"chest_unopened_img": "images/items/burtgang.png",
+						"chest_opened_img": "images/items/burtgang_bw.png"
+					}
+				]
+			},
+			{
+				"name": "611",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Skula"
+					}
+				]
+			},
+			{
+				"name": "613",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Death's Sickle",
+						"chest_unopened_img": "images/items/death's_sickle.png",
+						"chest_opened_img": "images/items/death's_sickle_bw.png"
+					}
+				]
+			},
+			{
+				"name": "615",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "617",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Death's Robe",
+						"chest_unopened_img": "images/items/death's_robe.png",
+						"chest_opened_img": "images/items/death's_robe_bw.png"
+					}
+				]
+			},
+			{
+				"name": "61B",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Mystletain",
+						"chest_unopened_img": "images/items/mystletain.png",
+						"chest_opened_img": "images/items/mystletain_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Underground Reservoir Locations (Vanilla)",
+		"children": [
+			{
+				"name": "700",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Pendant",
+						"chest_unopened_img": "images/items/pendant.png",
+						"chest_opened_img": "images/items/pendant_bw.png"
+					}
+				]
+			},
+			{
+				"name": "701",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Tasty Meat",
+						"chest_unopened_img": "images/items/tasty_meat.png",
+						"chest_opened_img": "images/items/tasty_meat_bw.png"
+					}
+				]
+			},
+			{
+				"name": "702",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Elfin Robe",
+						"chest_unopened_img": "images/items/elfin_robe.png",
+						"chest_opened_img": "images/items/elfin_robe_bw.png"
+					}
+				]
+			},
+			{
+				"name": "703",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Rahab's Sword",
+						"chest_unopened_img": "images/items/rahab's_sword.png",
+						"chest_opened_img": "images/items/rahab's_sword_bw.png"
+					}
+				]
+			},
+			{
+				"name": "708",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
+					}
+				]
+			},
+			{
+				"name": "709",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Pudding",
+						"chest_unopened_img": "images/items/pudding.png",
+						"chest_opened_img": "images/items/pudding_bw.png"
+					}
+				]
+			},
+			{
+				"name": "70C",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
+					}
+				]
+			},
+			{
+				"name": "70E",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					}
+				]
+			},
+			{
+				"name": "70F",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					}
+				]
+			},
+			{
+				"name": "711",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Milican's Sword",
+						"chest_unopened_img": "images/items/milican's_sword.png",
+						"chest_opened_img": "images/items/milican's_sword_bw.png"
+					}
+				]
+			},
+			{
+				"name": "715",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Armor of Water",
+						"chest_unopened_img": "images/items/armor_of_water.png",
+						"chest_opened_img": "images/items/armor_of_water_bw.png"
+					}
+				]
+			},
+			{
+				"name": "716",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Galamoth"
+					}
+				]
+			},
+			{
+				"name": "718",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Ronginus' Spear",
+						"chest_unopened_img": "images/items/ronginus'_spear.png",
+						"chest_opened_img": "images/items/ronginus'_spear_bw.png"
+					}
+				]
+			},
+			{
+				"name": "719",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$1,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
+					{
+						"name": "Handgun",
+						"chest_unopened_img": "images/items/handgun.png",
+						"chest_opened_img": "images/items/handgun_bw.png"
+					}
+				]
+			},
+			{
+				"name": "71C",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Ancient Book 3",
+						"chest_unopened_img": "images/items/ancient_book_3.png",
+						"chest_opened_img": "images/items/ancient_book_3_bw.png"
+					}
+				]
+			},
+			{
+				"name": "71D",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "71F",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Rune Ring",
+						"chest_unopened_img": "images/items/rune_ring.png",
+						"chest_opened_img": "images/items/rune_ring_bw.png"
+					}
+				]
+			},
+			{
+				"name": "720",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Osafune",
+						"chest_unopened_img": "images/items/osafune.png",
+						"chest_opened_img": "images/items/osafune_bw.png"
+					}
+				]
+			},
+			{
+				"name": "721",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					},
+					{
+						"name": "Eversing",
+						"chest_unopened_img": "images/items/eversing.png",
+						"chest_opened_img": "images/items/eversing_bw.png"
+					}
+				]
+			},
+			{
+				"name": "722",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					}
+				]
+			},
+			{
+				"name": "725",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Legion"
+					}
+				]
+			},
+			{
+				"name": "733",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
+					}
+				]
+			},
+			{
+				"name": "736",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Gold Ring",
+						"chest_unopened_img": "images/items/gold_ring.png",
+						"chest_opened_img": "images/items/gold_ring_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "The Arena Locations (Vanilla)",
+		"children": [
+			{
+				"name": "800",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Giant Bat"
+					}
+				]
+			},
+			{
+				"name": "801",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Balore"
+					}
+				]
+			},
+			{
+				"name": "802",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Laevatain",
+						"chest_unopened_img": "images/items/laevatain.png",
+						"chest_opened_img": "images/items/laevatain_bw.png"
+					}
+				]
+			},
+			{
+				"name": "808",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Black Cloak",
+						"chest_unopened_img": "images/items/black_cloak.png",
+						"chest_opened_img": "images/items/black_cloak_bw.png"
+					}
+				]
+			},
+			{
+				"name": "80F",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Olrox's Suit",
+						"chest_unopened_img": "images/items/olrox's_suit.png",
+						"chest_opened_img": "images/items/olrox's_suit_bw.png"
+					}
+				]
+			},
+			{
+				"name": "810",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Silver Handgun",
+						"chest_unopened_img": "images/items/silver_handgun.png",
+						"chest_opened_img": "images/items/silver_handgun_bw.png"
+					},
+					{
+						"name": "Balmung",
+						"chest_unopened_img": "images/items/balmung.png",
+						"chest_opened_img": "images/items/balmung_bw.png"
+					}
+				]
+			},
+			{
+				"name": "811",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Rare Ring",
+						"chest_unopened_img": "images/items/rare_ring.png",
+						"chest_opened_img": "images/items/rare_ring_bw.png"
+					}
+				]
+			},
+			{
+				"name": "812",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Top Floor Locations (Vanilla)",
+		"children": [
+			{
+				"name": "900",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Dracula's Tunic",
+						"chest_unopened_img": "images/items/dracula's_tunic.png",
+						"chest_opened_img": "images/items/dracula's_tunic_bw.png"
+					},
+					{
+						"name": "Black Panther"
+					}
+				]
+			},
+			{
+				"name": "901",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
+					},
+					{
+						"name": "Tear of Blood",
+						"chest_unopened_img": "images/items/tear_of_blood.png",
+						"chest_opened_img": "images/items/tear_of_blood_bw.png"
+					}
+				]
+			},
+			{
+				"name": "902",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Gungner",
+						"chest_unopened_img": "images/items/gungner.png",
+						"chest_opened_img": "images/items/gungner_bw.png"
+					}
+				]
+			},
+			{
+				"name": "906",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Hippogryph"
+					}
+				]
+			},
+			{
+				"name": "908",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Satan's Ring",
+						"chest_unopened_img": "images/items/satan's_ring.png",
+						"chest_opened_img": "images/items/satan's_ring_bw.png"
+					}
+				]
+			},
+			{
+				"name": "910",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
+					}
+				]
+			},
+			{
+				"name": "915",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					}
+				]
+			},
+			{
+				"name": "917",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Kaladbolg",
+						"chest_unopened_img": "images/items/kaladbolg.png",
+						"chest_opened_img": "images/items/kaladbolg_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Forbidden Area Locations (Vanilla)",
+		"children": [
+			{
+				"name": "A04",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Claimh Solais",
+						"chest_unopened_img": "images/items/claimh_solais.png",
+						"chest_opened_img": "images/items/claimh_solais_bw.png"
+					}
+				]
+			},
+			{
+				"name": "A06",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Joyeuse",
+						"chest_unopened_img": "images/items/joyeuse.png",
+						"chest_opened_img": "images/items/joyeuse_bw.png"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Chaotic Realm Locations (Vanilla)",
+		"children": [
+			{
+				"name": "B18",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					}
+				]
+			},
+			{
+				"name": "B1C",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
+					}
+				]
+			},
+			{
+				"name": "B1D",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
+					}
+				]
+			}
+		]
+	}
+]
