@@ -198,12 +198,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 435,
+								"x": 447,
 								"y": 567
 							},
 							{
 								"map": "Combined Castle",
-								"x": 435,
+								"x": 447,
 								"y": 567
 							}
 						]
@@ -753,12 +753,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1203,
+								"x": 1191,
 								"y": 567
 							},
 							{
 								"map": "Combined Castle",
-								"x": 1203,
+								"x": 1191,
 								"y": 567
 							}
 						]
@@ -1126,12 +1126,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 1131,
+								"x": 1143,
 								"y": 711
 							},
 							{
 								"map": "Combined Castle",
-								"x": 1131,
+								"x": 1143,
 								"y": 711
 							}
 						]
@@ -1417,13 +1417,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 375
+								"x": 279,
+								"y": 519
 							},
 							{
 								"map": "Combined Castle",
-								"x": 267,
-								"y": 375
+								"x": 279,
+								"y": 519
 							}
 						]
 					}
@@ -1608,12 +1608,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 555,
+								"x": 543,
 								"y": 303
 							},
 							{
 								"map": "Combined Castle",
-								"x": 555,
+								"x": 543,
 								"y": 303
 							}
 						]
@@ -1724,6 +1724,32 @@
 								"map": "Combined Castle",
 								"x": 291,
 								"y": 183
+							}
+						]
+					}
+				]
+			},
+			{
+				"name": "506",
+				"children": [
+					{
+						"name": "Floating Garden",
+						"sections": [
+							{
+								"name": "Julius Belmont",
+								"ref": "Floating Garden Locations (Vanilla)/506/Julius Belmont"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 567,
+								"y": 111
+							},
+							{
+								"map": "Combined Castle",
+								"x": 567,
+								"y": 111
 							}
 						]
 					}
@@ -1852,12 +1878,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 963,
+								"x": 951,
 								"y": 183
 							},
 							{
 								"map": "Combined Castle",
-								"x": 963,
+								"x": 951,
 								"y": 183
 							}
 						]
@@ -1957,12 +1983,12 @@
 							{
 								"map": "Dracula's Castle",
 								"x": 963,
-								"y": 231
+								"y": 255
 							},
 							{
 								"map": "Combined Castle",
 								"x": 963,
-								"y": 231
+								"y": 255
 							}
 						]
 					}
@@ -1983,12 +2009,12 @@
 							{
 								"map": "Dracula's Castle",
 								"x": 939,
-								"y": 279
+								"y": 267
 							},
 							{
 								"map": "Combined Castle",
 								"x": 939,
-								"y": 279
+								"y": 267
 							}
 						]
 					}
@@ -2092,12 +2118,12 @@
 							{
 								"map": "Dracula's Castle",
 								"x": 387,
-								"y": 615
+								"y": 591
 							},
 							{
 								"map": "Combined Castle",
 								"x": 387,
-								"y": 615
+								"y": 591
 							}
 						]
 					}
@@ -2611,13 +2637,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 723,
-								"y": 879
+								"x": 711,
+								"y": 867
 							},
 							{
 								"map": "Combined Castle",
-								"x": 723,
-								"y": 879
+								"x": 711,
+								"y": 867
 							}
 						]
 					}
@@ -2720,12 +2746,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 171,
+								"x": 159,
 								"y": 807
 							},
 							{
 								"map": "Combined Castle",
-								"x": 171,
+								"x": 159,
 								"y": 807
 							}
 						]
@@ -3006,6 +3032,32 @@
 				]
 			},
 			{
+				"name": "904",
+				"children": [
+					{
+						"name": "Top Floor",
+						"sections": [
+							{
+								"name": "Graham Jones",
+								"ref": "Top Floor Locations (Vanilla)/904/Graham Jones"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Dracula's Castle",
+								"x": 699,
+								"y": 135
+							},
+							{
+								"map": "Combined Castle",
+								"x": 699,
+								"y": 135
+							}
+						]
+					}
+				]
+			},
+			{
 				"name": "906",
 				"children": [
 					{
@@ -3197,6 +3249,34 @@
 	{
 		"name": "Chaotic Realm Front End (Vanilla)",
 		"children": [
+			{
+				"name": "B0B",
+				"children": [
+					{
+						"name": "Chaotic Realm",
+						"sections": [
+							{
+								"name": "Chaos",
+								"ref": "Chaotic Realm Locations (Vanilla)/B0B/Chaos"
+							}
+						],
+						"map_locations": [
+							{
+								"map": "Chaotic Realm",
+								"x": 675,
+								"y": 471,
+								"size": 24
+							},
+							{
+								"map": "Combined Castle",
+								"x": 195,
+								"y": 999,
+								"size": 24
+							}
+						]
+					}
+				]
+			},
 			{
 				"name": "B18",
 				"children": [

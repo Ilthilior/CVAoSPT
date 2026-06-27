@@ -666,6 +666,15 @@
 				]
 			},
 			{
+				"name": "506",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Julius Belmont"
+					}
+				]
+			},
+			{
 				"name": "509",
 				"access_rules": [],
 				"sections": [
@@ -1192,6 +1201,15 @@
 				]
 			},
 			{
+				"name": "904",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Graham Jones"
+					}
+				]
+			},
+			{
 				"name": "906",
 				"access_rules": [],
 				"sections": [
@@ -1276,6 +1294,15 @@
 	{
 		"name": "Chaotic Realm Locations (Vanilla)",
 		"children": [
+			{
+				"name": "B0B",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Chaos"
+					}
+				]
+			},
 			{
 				"name": "B18",
 				"access_rules": [],
