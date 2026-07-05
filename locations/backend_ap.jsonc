@@ -59,7 +59,7 @@
 				]
 			},
 			{
-				"name": "Hidden Room Behind Peeping Eye",
+				"name": "Secret Room Behind Peeping Eye",
 				"access_rules": [],
 				"sections": [
 					{
@@ -81,10 +81,10 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Right Ledge"
+						"name": "Left Ledge"
 					},
 					{
-						"name": "Left Ledge"
+						"name": "Right Ledge"
 					}
 				]
 			},
@@ -235,7 +235,7 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Cache"
+						"name": "Secret Cache"
 					},
 					{
 						"name": "Right Nook"
@@ -259,7 +259,7 @@
 		"chest_opened_img": "images/items/chest_bw.png",
 		"children": [
 			{
-				"name": "Hidden Room",
+				"name": "Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -280,7 +280,7 @@
 				]
 			},
 			{
-				"name": "Evil Butcher hallway",
+				"name": "Evil Butcher Hallway",
 				"access_rules": [],
 				"sections": [
 					{
@@ -377,7 +377,7 @@
 		"chest_opened_img": "images/items/chest_bw.png",
 		"children": [
 			{
-				"name": "Hidden Room Behind Minotaur",
+				"name": "Secret Room Behind Minotaur",
 				"access_rules": [],
 				"sections": [
 					{
@@ -440,7 +440,7 @@
 				]
 			},
 			{
-				"name": "Hidden Ceiling Room",
+				"name": "Secret Ceiling Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -639,11 +639,11 @@
 				]
 			},
 			{
-				"name": "Death's Door (Hard Mode)",
+				"name": "Death's Door",
 				"access_rules": [],
 				"sections": [
 					{
-						"name": ""
+						"name": "Hard Mode Item"
 					}
 				]
 			},
@@ -657,16 +657,16 @@
 				]
 			},
 			{
-				"name": "Gearworks Crevice (Hard Mode)",
+				"name": "Gearworks Crevice",
 				"access_rules": [],
 				"sections": [
 					{
-						"name": ""
+						"name": "Hard Mode Item"
 					}
 				]
 			},
 			{
-				"name": "Hidden Room",
+				"name": "Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -727,7 +727,7 @@
 				]
 			},
 			{
-				"name": "Hidden Storage Cavern",
+				"name": "Secret Storage Cavern",
 				"access_rules": [],
 				"sections": [
 					{
@@ -838,7 +838,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Hidden Room",
+				"name": "Eastern Reservoir Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -851,10 +851,10 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Basin"
+						"name": "Crest"
 					},
 					{
-						"name": "Crest"
+						"name": "Basin"
 					}
 				]
 			},
@@ -1008,7 +1008,7 @@
 				]
 			},
 			{
-				"name": "Hidden Ceiling Room",
+				"name": "Secret Ceiling Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -1026,7 +1026,7 @@
 				]
 			},
 			{
-				"name": "Hidden Grave",
+				"name": "Secret Grave",
 				"access_rules": [],
 				"sections": [
 					{
@@ -1078,7 +1078,7 @@
 		"chest_opened_img": "images/items/chest_bw.png",
 		"children": [
 			{
-				"name": "Hidden Room by the Inferno",
+				"name": "Secret Room by the Inferno",
 				"access_rules": [],
 				"sections": [
 					{
