@@ -47,7 +47,8 @@ if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddMaps("maps/maps.jsonc")
     -- Locations
     if not IS_VANILLA then
-        Tracker:AddLocations("locations/locations.jsonc")
+        Tracker:AddLocations("locations/backend_ap.jsonc")
+        Tracker:AddLocations("locations/frontend_ap.jsonc")
     else
         Tracker:AddLocations("locations/backend_v.jsonc")
         Tracker:AddLocations("locations/frontend_v.jsonc")
