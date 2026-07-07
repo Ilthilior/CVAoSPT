@@ -1,11 +1,12 @@
 {
     "versions": [
         {
-            "package_version": "0.0",
-            "download_url": "https://github.com/SchwartzGandhi/CVAoSPT/releases/download/0.0/CVAoSPT.zip",
-            "sha256": "",
+            "package_version": "0.1",
+            "download_url": "https://github.com/SchwartzGandhi/CVAoSPT/releases/download/0.1/CVAoSPT.zip",
+            "sha256": "8a34485b796bbc949f040f5bc1b47c8bc78dc6ef71bdde7ce31f51dd336c968b",
             "changelog": [
-                ""
+                "Location Mapping",
+                "Small location position and naming fixes"
             ]
         }
     ]
