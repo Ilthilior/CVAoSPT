@@ -81,15 +81,15 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Left Ledge"
+						"name": "Right Ledge"
 					},
 					{
-						"name": "Right Ledge"
+						"name": "Left Ledge"
 					}
 				]
 			},
 			{
-				"name": "Reservior Entrance",
+				"name": "Reservoir Entrance",
 				"access_rules": [],
 				"sections": [
 					{
@@ -128,7 +128,7 @@
 				]
 			},
 			{
-				"name": "Catobelpas Ledge",
+				"name": "Catoblepas Ledge",
 				"access_rules": [],
 				"sections": [
 					{
@@ -184,9 +184,6 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Top Left Corner Left Ledge"
-					},
-					{
 						"name": "Bottom Left"
 					},
 					{
@@ -194,6 +191,9 @@
 					},
 					{
 						"name": "Top Left Corner Right Ledge"
+					},
+					{
+						"name": "Top Left Corner Left Ledge"
 					},
 					{
 						"name": "Top Right"
@@ -235,10 +235,10 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Secret Cache"
+						"name": "Right Nook"
 					},
 					{
-						"name": "Right Nook"
+						"name": "Secret Cache"
 					}
 				]
 			},
@@ -495,7 +495,7 @@
 				]
 			},
 			{
-				"name": "Secreter Room",
+				"name": "Secret-er Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -562,6 +562,15 @@
 				]
 			},
 			{
+				"name": "Julius Arena",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": ""
+					}
+				]
+			},
+			{
 				"name": "6th Island",
 				"access_rules": [],
 				"sections": [
@@ -581,15 +590,6 @@
 			},
 			{
 				"name": "2nd Island",
-				"access_rules": [],
-				"sections": [
-					{
-						"name": ""
-					}
-				]
-			},
-			{
-				"name": "Julius Arena",
 				"access_rules": [],
 				"sections": [
 					{
@@ -781,7 +781,7 @@
 				]
 			},
 			{
-				"name": "Cemetery Eastern Crypt",
+				"name": "Cemetery Right Crypt",
 				"access_rules": [],
 				"sections": [
 					{
@@ -851,15 +851,15 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Crest"
+						"name": "Basin"
 					},
 					{
-						"name": "Basin"
+						"name": "Crest"
 					}
 				]
 			},
 			{
-				"name": "Cemetery Western Ambulatory",
+				"name": "Cemetery Left Ambulatory",
 				"access_rules": [],
 				"sections": [
 					{
@@ -886,7 +886,7 @@
 				]
 			},
 			{
-				"name": "Cemetery Eastern Ambulatory",
+				"name": "Cemetery Right Ambulatory",
 				"access_rules": [],
 				"sections": [
 					{
@@ -947,7 +947,7 @@
 				]
 			},
 			{
-				"name": "Conyeror Belt Trial Reward",
+				"name": "Conveyor Belt Trial Reward",
 				"access_rules": [],
 				"sections": [
 					{

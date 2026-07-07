@@ -94,12 +94,12 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 267,
+								"x": 291,
 								"y": 567
 							},
 							{
 								"map": "Combined Castle",
-								"x": 267,
+								"x": 291,
 								"y": 567
 							}
 						]
@@ -121,12 +121,12 @@
 							{
 								"map": "Dracula's Castle",
 								"x": 267,
-								"y": 591
+								"y": 567
 							},
 							{
 								"map": "Combined Castle",
 								"x": 267,
-								"y": 591
+								"y": 567
 							}
 						]
 					}
@@ -146,13 +146,13 @@
 						"map_locations": [
 							{
 								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 567
+								"x": 279,
+								"y": 591
 							},
 							{
 								"map": "Combined Castle",
-								"x": 267,
-								"y": 567
+								"x": 279,
+								"y": 591
 							}
 						]
 					}
