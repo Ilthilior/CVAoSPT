@@ -93,7 +93,7 @@
 			},
 			{
 				"name": "00F",
-				"access_rules": ["$widies", "{bdash}"],
+				"access_rules": ["$widies"],
 				"sections": [
 					{
 						"name": "Potion",
