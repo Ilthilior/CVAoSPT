@@ -1,3492 +1,1339 @@
 [
 	{
-		"name": "Castle Corridor Locations",
+		"name": "Castle Corridor Locations (Vanilla)",
 		"children": [
 			{
 				"name": "000",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Lucky Charm",
-								"chest_unopened_img": "images/items/lucky_charm.png",
-								"chest_opened_img": "images/items/lucky_charm_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 123,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 123,
-								"y": 519
-							}
-						]
+						"name": "Lucky Charm",
+						"chest_unopened_img": "images/items/lucky_charm.png",
+						"chest_opened_img": "images/items/lucky_charm_bw.png"
 					}
 				]
 			},
 			{
-				"name": "002_0",
-				"children": [
+				"name": "002",
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Vjaya",
-								"chest_unopened_img": "images/items/vjaya.png",
-								"chest_opened_img": "images/items/vjaya_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 195,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 195,
-								"y": 519
-							}
-						]
+						"name": "Vjaya",
+						"access_rules": ["$biguppies"],
+						"chest_unopened_img": "images/items/vjaya.png",
+						"chest_opened_img": "images/items/vjaya_bw.png"
+					},
+					{
+						"name": "Cestus",
+						"chest_unopened_img": "images/items/cestus.png",
+						"chest_opened_img": "images/items/cestus_bw.png"
 					}
 				]
 			},
 			{
-				"name": "002_1",
-				"children": [
+				"name": "005",
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Cestus",
-								"chest_unopened_img": "images/items/cestus.png",
-								"chest_opened_img": "images/items/cestus_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 195,
-								"y": 495
-							},
-							{
-								"map": "Combined Castle",
-								"x": 195,
-								"y": 495
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "005_0",
-				"children": [
+						"name": "Short Sword",
+						"chest_unopened_img": "images/items/short_sword.png",
+						"chest_opened_img": "images/items/short_sword_bw.png"
+					},
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Short Sword",
-								"chest_unopened_img": "images/items/short_sword.png",
-								"chest_opened_img": "images/items/short_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 567
-							},
-							{
-								"map": "Combined Castle",
-								"x": 267,
-								"y": 567
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "005_1",
-				"children": [
+						"name": "Cape",
+						"chest_unopened_img": "images/items/cape.png",
+						"chest_opened_img": "images/items/cape_bw.png"
+					},
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Cape",
-								"chest_unopened_img": "images/items/cape.png",
-								"chest_opened_img": "images/items/cape_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 267,
-								"y": 591
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "005_2",
-				"children": [
-					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Grave Keeper"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 567
-							},
-							{
-								"map": "Combined Castle",
-								"x": 267,
-								"y": 567
-							}
-						]
+						"name": "Grave Keeper"
 					}
 				]
 			},
 			{
 				"name": "009",
-				"children": [
+				"access_rules": ["$biguppies", "glide,djump", "panther,djump", "kick, djump", "panther, kick", "{djump}"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Lance",
-								"chest_unopened_img": "images/items/lance.png",
-								"chest_opened_img": "images/items/lance_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 387,
-								"y": 543
-							},
-							{
-								"map": "Combined Castle",
-								"x": 387,
-								"y": 543
-							}
-						]
+						"name": "Lance",
+						"chest_unopened_img": "images/items/lance.png",
+						"chest_opened_img": "images/items/lance_bw.png"
 					}
 				]
 			},
 			{
 				"name": "00A",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Creaking Skull"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 435,
-								"y": 567
-							},
-							{
-								"map": "Combined Castle",
-								"x": 435,
-								"y": 567
-							}
-						]
+						"name": "Creaking Skull"
 					}
 				]
 			},
 			{
 				"name": "00B",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mind Up",
-								"chest_unopened_img": "images/items/mind_up.png",
-								"chest_opened_img": "images/items/mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 459,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 459,
-								"y": 591
-							}
-						]
+						"name": "Mind Up",
+						"chest_unopened_img": "images/items/mind_up.png",
+						"chest_opened_img": "images/items/mind_up_bw.png"
 					}
 				]
 			},
 			{
 				"name": "00D",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Potion",
-								"chest_unopened_img": "images/items/potion.png",
-								"chest_opened_img": "images/items/potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 507,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 507,
-								"y": 447
-							}
-						]
+						"name": "Potion",
+						"chest_unopened_img": "images/items/potion.png",
+						"chest_opened_img": "images/items/potion_bw.png"
 					}
 				]
 			},
 			{
-				"name": "00F_0",
-				"children": [
+				"name": "00F",
+				"access_rules": ["$widies"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Potion",
-								"chest_unopened_img": "images/items/potion.png",
-								"chest_opened_img": "images/items/potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 579,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 579,
-								"y": 447
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "00F_1",
-				"children": [
+						"name": "Potion",
+						"chest_unopened_img": "images/items/potion.png",
+						"chest_opened_img": "images/items/potion_bw.png"
+					},
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Leather Plate",
-								"chest_unopened_img": "images/items/leather_plate.png",
-								"chest_opened_img": "images/items/leather_plate_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 531,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 531,
-								"y": 447
-							}
-						]
+						"name": "Leather Plate",
+						"chest_unopened_img": "images/items/leather_plate.png",
+						"chest_opened_img": "images/items/leather_plate_bw.png"
 					}
 				]
 			},
 			{
 				"name": "010",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Flying Armor"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 603,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 603,
-								"y": 591
-							}
-						]
+						"name": "Flying Armor"
 					}
 				]
 			},
 			{
 				"name": "019",
-				"children": [
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Yasutsuna",
-								"chest_unopened_img": "images/items/yasutsuna.png",
-								"chest_opened_img": "images/items/yasutsuna_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1035,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1035,
-								"y": 447
-							}
-						]
+						"name": "Yasutsuna",
+						"chest_unopened_img": "images/items/yasutsuna.png",
+						"chest_opened_img": "images/items/yasutsuna_bw.png"
 					}
 				]
 			},
 			{
 				"name": "023",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Castle Map 1",
-								"chest_unopened_img": "images/items/castle_map_1.png",
-								"chest_opened_img": "images/items/castle_map_1_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 483,
-								"y": 567
-							},
-							{
-								"map": "Combined Castle",
-								"x": 483,
-								"y": 567
-							}
-						]
+						"name": "Castle Map 1",
+						"chest_unopened_img": "images/items/castle_map_1.png",
+						"chest_opened_img": "images/items/castle_map_1_bw.png"
 					}
 				]
 			},
 			{
 				"name": "026",
-				"children": [
+				"access_rules": ["$biguppies"],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Armor of Fire",
-								"chest_unopened_img": "images/items/armor_of_fire.png",
-								"chest_opened_img": "images/items/armor_of_fire_bw.png"
-							},
-							{
-								"name": "Potion",
-								"chest_unopened_img": "images/items/potion.png",
-								"chest_opened_img": "images/items/potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 399
-							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 399
-							}
-						]
+						"name": "Armor of Fire",
+						"chest_unopened_img": "images/items/armor_of_fire.png",
+						"chest_opened_img": "images/items/armor_of_fire_bw.png"
+					},
+					{
+						"name": "Potion",
+						"chest_unopened_img": "images/items/potion.png",
+						"chest_opened_img": "images/items/potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "027",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Copper Plate",
-								"chest_unopened_img": "images/items/copper_plate.png",
-								"chest_opened_img": "images/items/copper_plate_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 399
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 399
-							}
-						]
+						"name": "Copper Plate",
+						"chest_unopened_img": "images/items/copper_plate.png",
+						"chest_opened_img": "images/items/copper_plate_bw.png"
 					}
 				]
 			},
 			{
 				"name": "028",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Scarf",
-								"chest_unopened_img": "images/items/scarf.png",
-								"chest_opened_img": "images/items/scarf_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 423
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 423
-							}
-						]
+						"name": "Scarf",
+						"chest_unopened_img": "images/items/scarf.png",
+						"chest_opened_img": "images/items/scarf_bw.png"
 					}
 				]
 			},
 			{
 				"name": "029",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$500",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 891,
-								"y": 495
-							},
-							{
-								"map": "Combined Castle",
-								"x": 891,
-								"y": 495
-							}
-						]
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "02C",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Castle Corridor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Potion",
-								"chest_unopened_img": "images/items/potion.png",
-								"chest_opened_img": "images/items/potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1035,
-								"y": 495
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1035,
-								"y": 495
-							}
-						]
+						"name": "Potion",
+						"chest_unopened_img": "images/items/potion.png",
+						"chest_opened_img": "images/items/potion_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Chapel Locations",
+		"name": "Chapel Locations (Vanilla)",
 		"children": [
 			{
 				"name": "101",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Anti-Venom",
-								"chest_unopened_img": "images/items/anti-venom.png",
-								"chest_opened_img": "images/items/anti-venom_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1107,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1107,
-								"y": 519
-							}
-						]
+						"name": "Anti-Venom",
+						"chest_unopened_img": "images/items/anti-venom.png",
+						"chest_opened_img": "images/items/anti-venom_bw.png"
 					}
 				]
 			},
 			{
-				"name": "103_0",
-				"children": [
+				"name": "103",
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Mind Up",
-								"chest_unopened_img": "images/items/high_mind_up.png",
-								"chest_opened_img": "images/items/high_mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1131,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1131,
-								"y": 447
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "103_1",
-				"children": [
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1155,
-								"y": 423
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1155,
-								"y": 423
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "103_2",
-				"children": [
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Bamboo Sword",
-								"chest_unopened_img": "images/items/bamboo_sword.png",
-								"chest_opened_img": "images/items/bamboo_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1155,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1155,
-								"y": 375
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "103_3",
-				"children": [
+						"name": "Bamboo Sword",
+						"chest_unopened_img": "images/items/bamboo_sword.png",
+						"chest_opened_img": "images/items/bamboo_sword_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Potion",
-								"chest_unopened_img": "images/items/high_potion.png",
-								"chest_opened_img": "images/items/high_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1131,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1131,
-								"y": 375
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "103_4",
-				"children": [
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mind Up",
-								"chest_unopened_img": "images/items/mind_up.png",
-								"chest_opened_img": "images/items/mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1203,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1203,
-								"y": 375
-							}
-						]
+						"name": "Mind Up",
+						"chest_unopened_img": "images/items/mind_up.png",
+						"chest_opened_img": "images/items/mind_up_bw.png"
 					}
 				]
 			},
 			{
 				"name": "105",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1155,
-								"y": 495
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1155,
-								"y": 495
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "106",
-				"children": [
+				"access_rules": ["$biguppies"],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Tallhammer",
-								"chest_unopened_img": "images/items/tallhammer.png",
-								"chest_opened_img": "images/items/tallhammer_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1203,
-								"y": 495
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1203,
-								"y": 495
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "106_1",
-				"children": [
+						"name": "Tallhammer",
+						"chest_unopened_img": "images/items/tallhammer.png",
+						"chest_opened_img": "images/items/tallhammer_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Manticore"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1203,
-								"y": 567
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1203,
-								"y": 567
-							}
-						]
+						"name": "Manticore"
 					}
 				]
 			},
 			{
 				"name": "107",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Rapier",
-								"chest_unopened_img": "images/items/rapier.png",
-								"chest_opened_img": "images/items/rapier_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1275,
-								"y": 423
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1275,
-								"y": 423
-							}
-						]
+						"name": "Rapier",
+						"chest_unopened_img": "images/items/rapier.png",
+						"chest_opened_img": "images/items/rapier_bw.png"
 					}
 				]
 			},
 			{
-				"name": "108_0",
-				"children": [
+				"name": "108",
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$1,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1275,
-								"y": 471
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1275,
-								"y": 471
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "108_1",
-				"children": [
+						"name": "$1,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 519
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "109",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chapel",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Silk Robe",
-								"chest_unopened_img": "images/items/silk_robe.png",
-								"chest_opened_img": "images/items/silk_robe_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 543
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 543
-							}
-						]
+						"name": "Silk Robe",
+						"chest_unopened_img": "images/items/silk_robe.png",
+						"chest_opened_img": "images/items/silk_robe_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Study Locations",
+		"name": "Study Locations (Vanilla)",
 		"children": [
 			{
 				"name": "200",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Melon",
-								"chest_unopened_img": "images/items/melon.png",
-								"chest_opened_img": "images/items/melon_bw.png"
-							},
-							{
-								"name": "Kaiser Knuckle",
-								"chest_unopened_img": "images/items/kaiser_knuckle.png",
-								"chest_opened_img": "images/items/kaiser_knuckle_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1035,
-								"y": 639
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1035,
-								"y": 639
-							}
-						]
+						"name": "Melon",
+						"chest_unopened_img": "images/items/melon.png",
+						"chest_opened_img": "images/items/melon_bw.png"
+					},
+					{
+						"name": "Kaiser Knuckle",
+						"chest_unopened_img": "images/items/kaiser_knuckle.png",
+						"chest_opened_img": "images/items/kaiser_knuckle_bw.png"
 					}
 				]
 			},
 			{
 				"name": "201",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1083,
-								"y": 639
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1083,
-								"y": 639
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "202",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Uncurse Potion",
-								"chest_unopened_img": "images/items/uncurse_potion.png",
-								"chest_opened_img": "images/items/uncurse_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1107,
-								"y": 639
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1107,
-								"y": 639
-							}
-						]
+						"name": "Uncurse Potion",
+						"chest_unopened_img": "images/items/uncurse_potion.png",
+						"chest_opened_img": "images/items/uncurse_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "205",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Malphas"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1107,
-								"y": 711
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1107,
-								"y": 711
-							}
-						]
+						"name": "Malphas"
 					}
 				]
 			},
 			{
 				"name": "208",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Hammer",
-								"chest_unopened_img": "images/items/hammer.png",
-								"chest_opened_img": "images/items/hammer_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 591
-							}
-						]
+						"name": "Hammer",
+						"chest_unopened_img": "images/items/hammer.png",
+						"chest_opened_img": "images/items/hammer_bw.png"
 					}
 				]
 			},
 			{
 				"name": "209",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Heart Pendant",
-								"chest_unopened_img": "images/items/heart_pendant.png",
-								"chest_opened_img": "images/items/heart_pendant_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 615
-							}
-						]
+						"name": "Heart Pendant",
+						"chest_unopened_img": "images/items/heart_pendant.png",
+						"chest_opened_img": "images/items/heart_pendant_bw.png"
 					}
 				]
 			},
 			{
 				"name": "20A",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Broadsword",
-								"chest_unopened_img": "images/items/broadsword.png",
-								"chest_opened_img": "images/items/broadsword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1251,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1251,
-								"y": 663
-							}
-						]
+						"name": "Broadsword",
+						"chest_unopened_img": "images/items/broadsword.png",
+						"chest_opened_img": "images/items/broadsword_bw.png"
 					}
 				]
 			},
 			{
 				"name": "20B",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Whip Sword",
-								"chest_unopened_img": "images/items/whip_sword.png",
-								"chest_opened_img": "images/items/whip_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 687
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 687
-							}
-						]
+						"name": "Whip Sword",
+						"chest_unopened_img": "images/items/whip_sword.png",
+						"chest_opened_img": "images/items/whip_sword_bw.png"
 					}
 				]
 			},
 			{
 				"name": "20E",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Ancient Book 1",
-								"chest_unopened_img": "images/items/ancient_book_1.png",
-								"chest_opened_img": "images/items/ancient_book_1_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1059,
-								"y": 711
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1059,
-								"y": 711
-							}
-						]
+						"name": "Ancient Book 1",
+						"chest_unopened_img": "images/items/ancient_book_1.png",
+						"chest_opened_img": "images/items/ancient_book_1_bw.png"
 					}
 				]
 			},
 			{
 				"name": "20F",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Great Armor"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1131,
-								"y": 711
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1131,
-								"y": 711
-							}
-						]
+						"name": "Great Armor"
 					}
 				]
 			},
 			{
 				"name": "211",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1203,
-								"y": 687
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1203,
-								"y": 687
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "215",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Study",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Bastard Sword",
-								"chest_unopened_img": "images/items/bastard_sword.png",
-								"chest_opened_img": "images/items/bastard_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1155,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1155,
-								"y": 615
-							}
-						]
+						"name": "Bastard Sword",
+						"chest_unopened_img": "images/items/bastard_sword.png",
+						"chest_opened_img": "images/items/bastard_sword_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Dance Hall Locations",
+		"name": "Dance Hall Locations (Vanilla)",
 		"children": [
 			{
 				"name": "301",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Samurai Armor",
-								"chest_unopened_img": "images/items/samurai_armor.png",
-								"chest_opened_img": "images/items/samurai_armor_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 195,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 195,
-								"y": 375
-							}
-						]
+						"name": "Samurai Armor",
+						"chest_unopened_img": "images/items/samurai_armor.png",
+						"chest_opened_img": "images/items/samurai_armor_bw.png"
 					}
 				]
 			},
 			{
 				"name": "303",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 219,
-								"y": 327
-							},
-							{
-								"map": "Combined Castle",
-								"x": 219,
-								"y": 327
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "306",
-				"children": [
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Cutall",
-								"chest_unopened_img": "images/items/cutall.png",
-								"chest_opened_img": "images/items/cutall_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 243,
-								"y": 423
-							},
-							{
-								"map": "Combined Castle",
-								"x": 243,
-								"y": 423
-							}
-						]
+						"name": "Cutall",
+						"chest_unopened_img": "images/items/cutall.png",
+						"chest_opened_img": "images/items/cutall_bw.png"
 					}
 				]
 			},
 			{
 				"name": "307",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mana Prism",
-								"chest_unopened_img": "images/items/mana_prism.png",
-								"chest_opened_img": "images/items/mana_prism_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 243,
-								"y": 303
-							},
-							{
-								"map": "Combined Castle",
-								"x": 243,
-								"y": 303
-							}
-						]
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
 					}
 				]
 			},
 			{
 				"name": "308",
-				"children": [
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Potion",
-								"chest_unopened_img": "images/items/high_potion.png",
-								"chest_opened_img": "images/items/high_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 243,
-								"y": 471
-							},
-							{
-								"map": "Combined Castle",
-								"x": 243,
-								"y": 471
-							}
-						]
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "30A",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Skeleton Blaze"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 243,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 243,
-								"y": 519
-							}
-						]
+						"name": "Skeleton Blaze"
 					}
 				]
 			},
 			{
 				"name": "30C",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$100",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 291,
-								"y": 327
-							},
-							{
-								"map": "Combined Castle",
-								"x": 291,
-								"y": 327
-							}
-						]
+						"name": "$100",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "310",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Sherman Ring",
-								"chest_unopened_img": "images/items/sherman_ring.png",
-								"chest_opened_img": "images/items/sherman_ring_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 387,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 387,
-								"y": 375
-							}
-						]
+						"name": "Sherman Ring",
+						"chest_unopened_img": "images/items/sherman_ring.png",
+						"chest_opened_img": "images/items/sherman_ring_bw.png"
 					}
 				]
 			},
 			{
 				"name": "313",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Dance Hall",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Big Golem"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 267,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 267,
-								"y": 375
-							}
-						]
+						"name": "Big Golem"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Inner Quarters Locations",
+		"name": "Inner Quarters Locations (Vanilla)",
 		"children": [
 			{
 				"name": "400",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Dainslef",
-								"chest_unopened_img": "images/items/dainslef.png",
-								"chest_opened_img": "images/items/dainslef_bw.png"
-							},
-							{
-								"name": "Ancient Book 2",
-								"chest_unopened_img": "images/items/ancient_book_2.png",
-								"chest_opened_img": "images/items/ancient_book_2_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 411,
-								"y": 279
-							},
-							{
-								"map": "Combined Castle",
-								"x": 411,
-								"y": 279
-							}
-						]
+						"name": "Dainslef",
+						"chest_unopened_img": "images/items/dainslef.png",
+						"chest_opened_img": "images/items/dainslef_bw.png"
+					},
+					{
+						"name": "Ancient Book 2",
+						"chest_unopened_img": "images/items/ancient_book_2.png",
+						"chest_opened_img": "images/items/ancient_book_2_bw.png"
 					}
 				]
 			},
 			{
 				"name": "403",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Mind Up",
-								"chest_unopened_img": "images/items/high_mind_up.png",
-								"chest_opened_img": "images/items/high_mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 459,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 459,
-								"y": 375
-							}
-						]
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
 					}
 				]
 			},
 			{
 				"name": "405",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Potion",
-								"chest_unopened_img": "images/items/high_potion.png",
-								"chest_opened_img": "images/items/high_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 483,
-								"y": 399
-							},
-							{
-								"map": "Combined Castle",
-								"x": 483,
-								"y": 399
-							}
-						]
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "409",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Ninja Suit",
-								"chest_unopened_img": "images/items/ninja_suit.png",
-								"chest_opened_img": "images/items/ninja_suit_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 507,
-								"y": 399
-							},
-							{
-								"map": "Combined Castle",
-								"x": 507,
-								"y": 399
-							}
-						]
+						"name": "Ninja Suit",
+						"chest_unopened_img": "images/items/ninja_suit.png",
+						"chest_opened_img": "images/items/ninja_suit_bw.png"
 					}
 				]
 			},
 			{
-				"name": "40A_0",
-				"children": [
+				"name": "40A",
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Hrunting",
-								"chest_unopened_img": "images/items/hrunting.png",
-								"chest_opened_img": "images/items/hrunting_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 579,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 579,
-								"y": 183
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "40A_1",
-				"children": [
+						"name": "Hrunting",
+						"chest_unopened_img": "images/items/hrunting.png",
+						"chest_opened_img": "images/items/hrunting_bw.png"
+					},
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Undine"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 531,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 531,
-								"y": 183
-							}
-						]
+						"name": "Undine"
 					}
 				]
 			},
 			{
 				"name": "40E",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Headhunter"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 555,
-								"y": 303
-							},
-							{
-								"map": "Combined Castle",
-								"x": 555,
-								"y": 303
-							}
-						]
+						"name": "Headhunter"
 					}
 				]
 			},
 			{
 				"name": "412",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Inner Quarters",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mind Up",
-								"chest_unopened_img": "images/items/mind_up.png",
-								"chest_opened_img": "images/items/mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 627,
-								"y": 399
-							},
-							{
-								"map": "Combined Castle",
-								"x": 627,
-								"y": 399
-							}
-						]
+						"name": "Mind Up",
+						"chest_unopened_img": "images/items/mind_up.png",
+						"chest_opened_img": "images/items/mind_up_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Floating Garden Locations",
+		"name": "Floating Garden Locations (Vanilla)",
 		"children": [
 			{
 				"name": "503",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Castle Map 3",
-								"chest_unopened_img": "images/items/castle_map_3.png",
-								"chest_opened_img": "images/items/castle_map_3_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 723,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 723,
-								"y": 519
-							}
-						]
+						"name": "Castle Map 3",
+						"chest_unopened_img": "images/items/castle_map_3.png",
+						"chest_opened_img": "images/items/castle_map_3_bw.png"
 					}
 				]
 			},
 			{
-				"name": "504_0",
-				"children": [
+				"name": "504",
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$1,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 219,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 219,
-								"y": 183
-							}
-						]
+						"name": "$1,000 Left",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
+					{
+						"name": "$1,000 Right",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
-				"name": "504_1",
-				"children": [
+				"name": "506",
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$1,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 291,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 291,
-								"y": 183
-							}
-						]
+						"name": "Julius Belmont"
 					}
 				]
 			},
 			{
 				"name": "509",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$500",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1227,
-								"y": 279
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1227,
-								"y": 279
-							}
-						]
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "50A",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$500",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1107,
-								"y": 207
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1107,
-								"y": 207
-							}
-						]
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "50D",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Floating Garden",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$500",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 411,
-								"y": 111
-							},
-							{
-								"map": "Combined Castle",
-								"x": 411,
-								"y": 111
-							}
-						]
+						"name": "$500",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Clock Tower Locations",
+		"name": "Clock Tower Locations (Vanilla)",
 		"children": [
 			{
 				"name": "603",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Pitch Black Suit",
-								"chest_unopened_img": "images/items/pitch_black_suit.png",
-								"chest_opened_img": "images/items/pitch_black_suit_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 891,
-								"y": 423
-							},
-							{
-								"map": "Combined Castle",
-								"x": 891,
-								"y": 423
-							}
-						]
+						"name": "Pitch Black Suit",
+						"chest_unopened_img": "images/items/pitch_black_suit.png",
+						"chest_opened_img": "images/items/pitch_black_suit_bw.png"
 					}
 				]
 			},
 			{
 				"name": "607",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Death"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 963,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 963,
-								"y": 183
-							}
-						]
+						"name": "Death"
 					}
 				]
 			},
 			{
 				"name": "609",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Burtgang",
-								"chest_unopened_img": "images/items/burtgang.png",
-								"chest_opened_img": "images/items/burtgang_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 987,
-								"y": 375
-							},
-							{
-								"map": "Combined Castle",
-								"x": 987,
-								"y": 375
-							}
-						]
+						"name": "Burtgang",
+						"chest_unopened_img": "images/items/burtgang.png",
+						"chest_opened_img": "images/items/burtgang_bw.png"
 					}
 				]
 			},
 			{
 				"name": "611",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Skula"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 915,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 915,
-								"y": 183
-							}
-						]
+						"name": "Skula"
 					}
 				]
 			},
 			{
 				"name": "613",
-				"children": [
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Death's Sickle",
-								"chest_unopened_img": "images/items/death's_sickle.png",
-								"chest_opened_img": "images/items/death's_sickle_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 987,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 987,
-								"y": 183
-							}
-						]
+						"name": "Death's Sickle",
+						"chest_unopened_img": "images/items/death's_sickle.png",
+						"chest_opened_img": "images/items/death's_sickle_bw.png"
 					}
 				]
 			},
 			{
 				"name": "615",
-				"children": [
+				"access_rules": ["djump"],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$2,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 963,
-								"y": 231
-							},
-							{
-								"map": "Combined Castle",
-								"x": 963,
-								"y": 231
-							}
-						]
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "617",
-				"children": [
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Death's Robe",
-								"chest_unopened_img": "images/items/death's_robe.png",
-								"chest_opened_img": "images/items/death's_robe_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 939,
-								"y": 279
-							},
-							{
-								"map": "Combined Castle",
-								"x": 939,
-								"y": 279
-							}
-						]
+						"name": "Death's Robe",
+						"chest_unopened_img": "images/items/death's_robe.png",
+						"chest_opened_img": "images/items/death's_robe_bw.png"
 					}
 				]
 			},
 			{
 				"name": "61B",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Clock Tower",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mystletain",
-								"chest_unopened_img": "images/items/mystletain.png",
-								"chest_opened_img": "images/items/mystletain_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 891,
-								"y": 327
-							},
-							{
-								"map": "Combined Castle",
-								"x": 891,
-								"y": 327
-							}
-						]
+						"name": "Mystletain",
+						"chest_unopened_img": "images/items/mystletain.png",
+						"chest_opened_img": "images/items/mystletain_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Underground Reservoir Locations",
+		"name": "Underground Reservoir Locations (Vanilla)",
 		"children": [
 			{
 				"name": "700",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Pendant",
-								"chest_unopened_img": "images/items/pendant.png",
-								"chest_opened_img": "images/items/pendant_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 219,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 219,
-								"y": 615
-							}
-						]
+						"name": "Pendant",
+						"chest_unopened_img": "images/items/pendant.png",
+						"chest_opened_img": "images/items/pendant_bw.png"
 					}
 				]
 			},
 			{
 				"name": "701",
-				"children": [
+				"access_rules": ["$divies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Tasty Meat",
-								"chest_unopened_img": "images/items/tasty_meat.png",
-								"chest_opened_img": "images/items/tasty_meat_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 459,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 459,
-								"y": 615
-							}
-						]
+						"name": "Tasty Meat",
+						"chest_unopened_img": "images/items/tasty_meat.png",
+						"chest_opened_img": "images/items/tasty_meat_bw.png"
 					}
 				]
 			},
 			{
 				"name": "702",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Elfin Robe",
-								"chest_unopened_img": "images/items/elfin_robe.png",
-								"chest_opened_img": "images/items/elfin_robe_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 387,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 387,
-								"y": 615
-							}
-						]
+						"name": "Elfin Robe",
+						"chest_unopened_img": "images/items/elfin_robe.png",
+						"chest_opened_img": "images/items/elfin_robe_bw.png"
 					}
 				]
 			},
 			{
 				"name": "703",
-				"children": [
+				"access_rules": ["$divies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Rahab's Sword",
-								"chest_unopened_img": "images/items/rahab's_sword.png",
-								"chest_opened_img": "images/items/rahab's_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 435,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 435,
-								"y": 663
-							}
-						]
+						"name": "Rahab's Sword",
+						"chest_unopened_img": "images/items/rahab's_sword.png",
+						"chest_opened_img": "images/items/rahab's_sword_bw.png"
 					}
 				]
 			},
 			{
 				"name": "708",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Mind Up",
-								"chest_unopened_img": "images/items/high_mind_up.png",
-								"chest_opened_img": "images/items/high_mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 459,
-								"y": 831
-							},
-							{
-								"map": "Combined Castle",
-								"x": 459,
-								"y": 831
-							}
-						]
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
 					}
 				]
 			},
 			{
 				"name": "709",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Pudding",
-								"chest_unopened_img": "images/items/pudding.png",
-								"chest_opened_img": "images/items/pudding_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 459,
-								"y": 879
-							},
-							{
-								"map": "Combined Castle",
-								"x": 459,
-								"y": 879
-							}
-						]
+						"name": "Pudding",
+						"chest_unopened_img": "images/items/pudding.png",
+						"chest_opened_img": "images/items/pudding_bw.png"
 					}
 				]
 			},
 			{
 				"name": "70C",
-				"children": [
+				"access_rules": ["$slidies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mana Prism",
-								"chest_unopened_img": "images/items/mana_prism.png",
-								"chest_opened_img": "images/items/mana_prism_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 531,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 531,
-								"y": 807
-							}
-						]
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
 					}
 				]
 			},
 			{
 				"name": "70E",
-				"children": [
+				"access_rules": ["slide, dive"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Super Potion",
-								"chest_unopened_img": "images/items/super_potion.png",
-								"chest_opened_img": "images/items/super_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 555,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 555,
-								"y": 663
-							}
-						]
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "70F",
-				"children": [
+				"access_rules": ["$divies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Super Potion",
-								"chest_unopened_img": "images/items/super_potion.png",
-								"chest_opened_img": "images/items/super_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 867,
-								"y": 711
-							},
-							{
-								"map": "Combined Castle",
-								"x": 867,
-								"y": 711
-							}
-						]
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "711",
-				"children": [
+				"access_rules": ["$divies, $biguppies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Milican's Sword",
-								"chest_unopened_img": "images/items/milican's_sword.png",
-								"chest_opened_img": "images/items/milican's_sword_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 699,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 699,
-								"y": 591
-							}
-						]
+						"name": "Milican's Sword",
+						"chest_unopened_img": "images/items/milican's_sword.png",
+						"chest_opened_img": "images/items/milican's_sword_bw.png"
 					}
 				]
 			},
 			{
 				"name": "715",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Armor of Water",
-								"chest_unopened_img": "images/items/armor_of_water.png",
-								"chest_opened_img": "images/items/armor_of_water_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 795,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 795,
-								"y": 807
-							}
-						]
+						"name": "Armor of Water",
+						"chest_unopened_img": "images/items/armor_of_water.png",
+						"chest_opened_img": "images/items/armor_of_water_bw.png"
 					}
 				]
 			},
 			{
 				"name": "716",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Cemetery",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Galamoth"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 891,
-								"y": 879
-							},
-							{
-								"map": "Combined Castle",
-								"x": 891,
-								"y": 879
-							}
-						]
+						"name": "Galamoth"
 					}
 				]
 			},
 			{
 				"name": "718",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Ronginus' Spear",
-								"chest_unopened_img": "images/items/ronginus'_spear.png",
-								"chest_opened_img": "images/items/ronginus'_spear_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 795,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 795,
-								"y": 663
-							}
-						]
+						"name": "Ronginus' Spear",
+						"chest_unopened_img": "images/items/ronginus'_spear.png",
+						"chest_opened_img": "images/items/ronginus'_spear_bw.png"
 					}
 				]
 			},
 			{
-				"name": "719_0",
-				"children": [
+				"name": "719",
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$1,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 819,
-								"y": 615
-							},
-							{
-								"map": "Combined Castle",
-								"x": 819,
-								"y": 615
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "719_1",
-				"children": [
+						"name": "$1,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
+					},
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Handgun",
-								"chest_unopened_img": "images/items/handgun.png",
-								"chest_opened_img": "images/items/handgun_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 843,
-								"y": 639
-							},
-							{
-								"map": "Combined Castle",
-								"x": 843,
-								"y": 639
-							}
-						]
+						"name": "Handgun",
+						"chest_unopened_img": "images/items/handgun.png",
+						"chest_opened_img": "images/items/handgun_bw.png"
 					}
 				]
 			},
 			{
 				"name": "71C",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Ancient Book 3",
-								"chest_unopened_img": "images/items/ancient_book_3.png",
-								"chest_opened_img": "images/items/ancient_book_3_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 915,
-								"y": 543
-							},
-							{
-								"map": "Combined Castle",
-								"x": 915,
-								"y": 543
-							}
-						]
+						"name": "Ancient Book 3",
+						"chest_unopened_img": "images/items/ancient_book_3.png",
+						"chest_opened_img": "images/items/ancient_book_3_bw.png"
 					}
 				]
 			},
 			{
 				"name": "71D",
-				"children": [
+				"access_rules": ["$biguppies, $divies, wwalk"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$2,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 891,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 891,
-								"y": 591
-							}
-						]
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "71F",
-				"children": [
+				"access_rules": ["$divies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Rune Ring",
-								"chest_unopened_img": "images/items/rune_ring.png",
-								"chest_opened_img": "images/items/rune_ring_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 987,
-								"y": 591
-							},
-							{
-								"map": "Combined Castle",
-								"x": 987,
-								"y": 591
-							}
-						]
+						"name": "Rune Ring",
+						"chest_unopened_img": "images/items/rune_ring.png",
+						"chest_opened_img": "images/items/rune_ring_bw.png"
 					}
 				]
 			},
 			{
 				"name": "720",
-				"children": [
+				"access_rules": ["$divies"],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Osafune",
-								"chest_unopened_img": "images/items/osafune.png",
-								"chest_opened_img": "images/items/osafune_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 963,
-								"y": 687
-							},
-							{
-								"map": "Combined Castle",
-								"x": 963,
-								"y": 687
-							}
-						]
+						"name": "Osafune",
+						"chest_unopened_img": "images/items/osafune.png",
+						"chest_opened_img": "images/items/osafune_bw.png"
 					}
 				]
 			},
 			{
-				"name": "721_0",
-				"children": [
+				"name": "721",
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Super Potion",
-								"chest_unopened_img": "images/items/super_potion.png",
-								"chest_opened_img": "images/items/super_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 843,
-								"y": 759
-							},
-							{
-								"map": "Combined Castle",
-								"x": 843,
-								"y": 759
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "721_1",
-				"children": [
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
+					},
 					{
-						"name": "Underground Reservoir",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Eversing",
-								"chest_unopened_img": "images/items/eversing.png",
-								"chest_opened_img": "images/items/eversing_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 843,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 843,
-								"y": 663
-							}
-						]
+						"name": "Eversing",
+						"chest_unopened_img": "images/items/eversing.png",
+						"chest_opened_img": "images/items/eversing_bw.png"
 					}
 				]
 			},
 			{
 				"name": "722",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Cemetery",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "$2,000",
-								"chest_unopened_img": "images/items/money_bag.png",
-								"chest_opened_img": "images/items/money_bag_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 555,
-								"y": 855
-							},
-							{
-								"map": "Combined Castle",
-								"x": 555,
-								"y": 855
-							}
-						]
+						"name": "$2,000",
+						"chest_unopened_img": "images/items/money_bag.png",
+						"chest_opened_img": "images/items/money_bag_bw.png"
 					}
 				]
 			},
 			{
 				"name": "725",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Cemetery",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Legion"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 723,
-								"y": 879
-							},
-							{
-								"map": "Combined Castle",
-								"x": 723,
-								"y": 879
-							}
-						]
+						"name": "Legion"
 					}
 				]
 			},
 			{
 				"name": "733",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Cemetery",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Potion",
-								"chest_unopened_img": "images/items/high_potion.png",
-								"chest_opened_img": "images/items/high_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 855
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 855
-							}
-						]
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "736",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Underground Cemetery",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Gold Ring",
-								"chest_unopened_img": "images/items/gold_ring.png",
-								"chest_opened_img": "images/items/gold_ring_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 867,
-								"y": 855
-							},
-							{
-								"map": "Combined Castle",
-								"x": 867,
-								"y": 855
-							}
-						]
+						"name": "Gold Ring",
+						"chest_unopened_img": "images/items/gold_ring.png",
+						"chest_opened_img": "images/items/gold_ring_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "The Arena Locations",
+		"name": "The Arena Locations (Vanilla)",
 		"children": [
 			{
 				"name": "800",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Giant Bat"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 123,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 123,
-								"y": 807
-							}
-						]
+						"name": "Giant Bat"
 					}
 				]
 			},
 			{
 				"name": "801",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Balore"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 171,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 171,
-								"y": 807
-							}
-						]
+						"name": "Balore"
 					}
 				]
 			},
 			{
 				"name": "802",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Laevatain",
-								"chest_unopened_img": "images/items/laevatain.png",
-								"chest_opened_img": "images/items/laevatain_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 195,
-								"y": 687
-							},
-							{
-								"map": "Combined Castle",
-								"x": 195,
-								"y": 687
-							}
-						]
+						"name": "Laevatain",
+						"chest_unopened_img": "images/items/laevatain.png",
+						"chest_opened_img": "images/items/laevatain_bw.png"
 					}
 				]
 			},
 			{
 				"name": "808",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Black Cloak",
-								"chest_unopened_img": "images/items/black_cloak.png",
-								"chest_opened_img": "images/items/black_cloak_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 219,
-								"y": 711
-							},
-							{
-								"map": "Combined Castle",
-								"x": 219,
-								"y": 711
-							}
-						]
+						"name": "Black Cloak",
+						"chest_unopened_img": "images/items/black_cloak.png",
+						"chest_opened_img": "images/items/black_cloak_bw.png"
 					}
 				]
 			},
 			{
 				"name": "80F",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Olrox's Suit",
-								"chest_unopened_img": "images/items/olrox's_suit.png",
-								"chest_opened_img": "images/items/olrox's_suit_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 315,
-								"y": 759
-							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 759
-							}
-						]
+						"name": "Olrox's Suit",
+						"chest_unopened_img": "images/items/olrox's_suit.png",
+						"chest_opened_img": "images/items/olrox's_suit_bw.png"
 					}
 				]
 			},
 			{
 				"name": "810",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Silver Handgun",
-								"chest_unopened_img": "images/items/silver_handgun.png",
-								"chest_opened_img": "images/items/silver_handgun_bw.png"
-							},
-							{
-								"name": "Balmung",
-								"chest_unopened_img": "images/items/balmung.png",
-								"chest_opened_img": "images/items/balmung_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 315,
-								"y": 783
-							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 783
-							}
-						]
+						"name": "Silver Handgun",
+						"chest_unopened_img": "images/items/silver_handgun.png",
+						"chest_opened_img": "images/items/silver_handgun_bw.png"
+					},
+					{
+						"name": "Balmung",
+						"chest_unopened_img": "images/items/balmung.png",
+						"chest_opened_img": "images/items/balmung_bw.png"
 					}
 				]
 			},
 			{
 				"name": "811",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Rare Ring",
-								"chest_unopened_img": "images/items/rare_ring.png",
-								"chest_opened_img": "images/items/rare_ring_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 315,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 807
-							}
-						]
+						"name": "Rare Ring",
+						"chest_unopened_img": "images/items/rare_ring.png",
+						"chest_opened_img": "images/items/rare_ring_bw.png"
 					}
 				]
 			},
 			{
 				"name": "812",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "The Arena",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Potion",
-								"chest_unopened_img": "images/items/high_potion.png",
-								"chest_opened_img": "images/items/high_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 339,
-								"y": 663
-							},
-							{
-								"map": "Combined Castle",
-								"x": 339,
-								"y": 663
-							}
-						]
+						"name": "High Potion",
+						"chest_unopened_img": "images/items/high_potion.png",
+						"chest_opened_img": "images/items/high_potion_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Top Floor Locations",
+		"name": "Top Floor Locations (Vanilla)",
 		"children": [
 			{
 				"name": "900",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Dracula's Tunic",
-								"chest_unopened_img": "images/items/dracula's_tunic.png",
-								"chest_opened_img": "images/items/dracula's_tunic_bw.png"
-							},
-							{
-								"name": "Black Panther"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 135
-							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 135
-							}
-						]
+						"name": "Dracula's Tunic",
+						"chest_unopened_img": "images/items/dracula's_tunic.png",
+						"chest_opened_img": "images/items/dracula's_tunic_bw.png"
+					},
+					{
+						"name": "Black Panther"
 					}
 				]
 			},
 			{
-				"name": "901_0",
-				"children": [
+				"name": "901",
+				"access_rules": ["fly"],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mana Prism",
-								"chest_unopened_img": "images/items/mana_prism.png",
-								"chest_opened_img": "images/items/mana_prism_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 159
-							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 159
-							}
-						]
-					}
-				]
-			},
-			{
-				"name": "901_1",
-				"children": [
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
+					},
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Tear of Blood",
-								"chest_unopened_img": "images/items/tear_of_blood.png",
-								"chest_opened_img": "images/items/tear_of_blood_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 135
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 135
-							}
-						]
+						"name": "Tear of Blood",
+						"chest_unopened_img": "images/items/tear_of_blood.png",
+						"chest_opened_img": "images/items/tear_of_blood_bw.png"
 					}
 				]
 			},
 			{
 				"name": "902",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Gungner",
-								"chest_unopened_img": "images/items/gungner.png",
-								"chest_opened_img": "images/items/gungner_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 279
-							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 279
-							}
-						]
+						"name": "Gungner",
+						"chest_unopened_img": "images/items/gungner.png",
+						"chest_opened_img": "images/items/gungner_bw.png"
+					}
+				]
+			},
+			{
+				"name": "904",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Graham Jones"
 					}
 				]
 			},
 			{
 				"name": "906",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Hippogryph"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 279
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 279
-							}
-						]
+						"name": "Hippogryph"
 					}
 				]
 			},
 			{
 				"name": "908",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Satan's Ring",
-								"chest_unopened_img": "images/items/satan's_ring.png",
-								"chest_opened_img": "images/items/satan's_ring_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 747,
-								"y": 327
-							},
-							{
-								"map": "Combined Castle",
-								"x": 747,
-								"y": 327
-							}
-						]
+						"name": "Satan's Ring",
+						"chest_unopened_img": "images/items/satan's_ring.png",
+						"chest_opened_img": "images/items/satan's_ring_bw.png"
 					}
 				]
 			},
 			{
 				"name": "910",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mana Prism",
-								"chest_unopened_img": "images/items/mana_prism.png",
-								"chest_opened_img": "images/items/mana_prism_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 795,
-								"y": 159
-							},
-							{
-								"map": "Combined Castle",
-								"x": 795,
-								"y": 159
-							}
-						]
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
 					}
 				]
 			},
 			{
 				"name": "915",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Super Potion",
-								"chest_unopened_img": "images/items/super_potion.png",
-								"chest_opened_img": "images/items/super_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 843,
-								"y": 351
-							},
-							{
-								"map": "Combined Castle",
-								"x": 843,
-								"y": 351
-							}
-						]
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "917",
-				"children": [
+				"access_rules": ["$biguppies"],
+				"sections": [
 					{
-						"name": "Top Floor",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Kaladbolg",
-								"chest_unopened_img": "images/items/kaladbolg.png",
-								"chest_opened_img": "images/items/kaladbolg_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 675,
-								"y": 183
-							},
-							{
-								"map": "Combined Castle",
-								"x": 675,
-								"y": 183
-							}
-						]
+						"name": "Kaladbolg",
+						"chest_unopened_img": "images/items/kaladbolg.png",
+						"chest_opened_img": "images/items/kaladbolg_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Forbidden Area Locations",
+		"name": "Forbidden Area Locations (Vanilla)",
 		"children": [
 			{
 				"name": "A04",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Forbidden Area",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Claimh Solais",
-								"chest_unopened_img": "images/items/claimh_solais.png",
-								"chest_opened_img": "images/items/claimh_solais_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1107,
-								"y": 807
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1107,
-								"y": 807
-							}
-						]
+						"name": "Claimh Solais",
+						"chest_unopened_img": "images/items/claimh_solais.png",
+						"chest_opened_img": "images/items/claimh_solais_bw.png"
 					}
 				]
 			},
 			{
 				"name": "A06",
-				"children": [
+				"access_rules": ["$smalluppies"],
+				"sections": [
 					{
-						"name": "Forbidden Area",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Joyeuse",
-								"chest_unopened_img": "images/items/joyeuse.png",
-								"chest_opened_img": "images/items/joyeuse_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Dracula's Castle",
-								"x": 1011,
-								"y": 831
-							},
-							{
-								"map": "Combined Castle",
-								"x": 1011,
-								"y": 831
-							}
-						]
+						"name": "Joyeuse",
+						"chest_unopened_img": "images/items/joyeuse.png",
+						"chest_opened_img": "images/items/joyeuse_bw.png"
 					}
 				]
 			}
 		]
 	},
 	{
-		"name": "Chaotic Realm Locations",
+		"name": "Chaotic Realm Locations (Vanilla)",
 		"children": [
 			{
-				"name": "B18",
-				"children": [
+				"name": "B0B",
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chaotic Realm",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Super Potion",
-								"chest_unopened_img": "images/items/super_potion.png",
-								"chest_opened_img": "images/items/super_potion_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Chaotic Realm",
-								"x": 747,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 267,
-								"y": 1047
-							}
-						]
+						"name": "Chaos"
+					}
+				]
+			},
+			{
+				"name": "B18",
+				"access_rules": [],
+				"sections": [
+					{
+						"name": "Super Potion",
+						"chest_unopened_img": "images/items/super_potion.png",
+						"chest_opened_img": "images/items/super_potion_bw.png"
 					}
 				]
 			},
 			{
 				"name": "B1C",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chaotic Realm",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "High Mind Up",
-								"chest_unopened_img": "images/items/high_mind_up.png",
-								"chest_opened_img": "images/items/high_mind_up_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Chaotic Realm",
-								"x": 795,
-								"y": 447
-							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 975
-							}
-						]
+						"name": "High Mind Up",
+						"chest_unopened_img": "images/items/high_mind_up.png",
+						"chest_opened_img": "images/items/high_mind_up_bw.png"
 					}
 				]
 			},
 			{
 				"name": "B1D",
-				"children": [
+				"access_rules": [],
+				"sections": [
 					{
-						"name": "Chaotic Realm",
-						"access_rules": [],
-						"sections": [
-							{
-								"name": "Mana Prism",
-								"chest_unopened_img": "images/items/mana_prism.png",
-								"chest_opened_img": "images/items/mana_prism_bw.png"
-							}
-						],
-						"map_locations": [
-							{
-								"map": "Chaotic Realm",
-								"x": 795,
-								"y": 519
-							},
-							{
-								"map": "Combined Castle",
-								"x": 315,
-								"y": 1047
-							}
-						]
+						"name": "Mana Prism",
+						"chest_unopened_img": "images/items/mana_prism.png",
+						"chest_opened_img": "images/items/mana_prism_bw.png"
 					}
 				]
 			}
