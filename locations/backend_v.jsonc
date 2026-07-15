@@ -51,7 +51,7 @@
 			},
 			{
 				"name": "009",
-				"access_rules": ["$biguppies", "glide,djump", "panther,djump", "kick, djump", "panther, kick", "{djump}"],
+				"access_rules": ["$biguppies", "glide,djump", "panther,djump", "kick, djump", "panther, kick", "[djump]"],
 				"sections": [
 					{
 						"name": "Lance",
