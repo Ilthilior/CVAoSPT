@@ -51,7 +51,7 @@
 			},
 			{
 				"name": "009",
-				"access_rules": ["$biguppies", "glide,djump", "panther,djump", "kick, djump", "panther, kick", "[djump]"],
+				"access_rules": ["$biguppies", "glide,djump", "panther,djump", "kick,djump", "panther,kick"],
 				"sections": [
 					{
 						"name": "Lance",
@@ -149,6 +149,7 @@
 					},
 					{
 						"name": "Potion",
+						"access_rules": ["$smalluppies"],
 						"chest_unopened_img": "images/items/potion.png",
 						"chest_opened_img": "images/items/potion_bw.png"
 					}
@@ -216,10 +217,11 @@
 			},
 			{
 				"name": "103",
-				"access_rules": ["$smalluppies"],
+				"access_rules": [],
 				"sections": [
 					{
 						"name": "High Mind Up",
+						"access_rules": ["$smalluppies", "kick"],
 						"chest_unopened_img": "images/items/high_mind_up.png",
 						"chest_opened_img": "images/items/high_mind_up_bw.png"
 					},
@@ -235,6 +237,7 @@
 					},
 					{
 						"name": "High Potion",
+						"access_rules": ["$smalluppies","panther,kick","glide,kick"],
 						"chest_unopened_img": "images/items/high_potion.png",
 						"chest_opened_img": "images/items/high_potion_bw.png"
 					},
@@ -384,7 +387,7 @@
 			},
 			{
 				"name": "20A",
-				"access_rules": ["$smalluppies"],
+				"access_rules": ["$smalluppies","panther,slide"],
 				"sections": [
 					{
 						"name": "Broadsword",
@@ -486,7 +489,7 @@
 			},
 			{
 				"name": "307",
-				"access_rules": ["$smalluppies"],
+				"access_rules": ["$smalluppies","panther,kick"],
 				"sections": [
 					{
 						"name": "Mana Prism",
@@ -497,7 +500,7 @@
 			},
 			{
 				"name": "308",
-				"access_rules": ["fly"],
+				"access_rules": ["fly","slide,djump","zip,slide"],
 				"sections": [
 					{
 						"name": "High Potion",
@@ -892,7 +895,7 @@
 			},
 			{
 				"name": "70F",
-				"access_rules": ["$divies"],
+				"access_rules": [],
 				"sections": [
 					{
 						"name": "Super Potion",
@@ -954,6 +957,7 @@
 					},
 					{
 						"name": "Handgun",
+						"access_rules": [],
 						"chest_unopened_img": "images/items/handgun.png",
 						"chest_opened_img": "images/items/handgun_bw.png"
 					}
