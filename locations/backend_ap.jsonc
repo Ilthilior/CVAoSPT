@@ -59,7 +59,7 @@
 				]
 			},
 			{
-				"name": "Secret Room Behind Peeping Eye",
+				"name": "Peeping Eye Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -146,7 +146,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Left Annex",
+				"name": "Left Annex - Eastern Reservoir",
 				"access_rules": [],
 				"sections": [
 					{
@@ -155,7 +155,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Right Annex",
+				"name": "Right Annex - Eastern Reservoir",
 				"access_rules": [],
 				"sections": [
 					{
@@ -190,10 +190,10 @@
 						"name": "Center Left"
 					},
 					{
-						"name": "Top Left Corner Right Ledge"
+						"name": "Right Ledge Top Left Corner"
 					},
 					{
-						"name": "Top Left Corner Left Ledge"
+						"name": "Left Ledge Top Left Corner"
 					},
 					{
 						"name": "Top Right"
@@ -210,7 +210,7 @@
 				]
 			},
 			{
-				"name": "Manticore Arena",
+				"name": "Chapel Arena",
 				"access_rules": [],
 				"sections": [
 					{
@@ -307,7 +307,7 @@
 				]
 			},
 			{
-				"name": "Box Room Ceiling",
+				"name": "Ceiling of Box Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -386,7 +386,7 @@
 				]
 			},
 			{
-				"name": "Big Window Room Left Annex",
+				"name": "Left Annex - Big Window Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -413,7 +413,7 @@
 				]
 			},
 			{
-				"name": "Wine Cellar Underneath Killer Doll",
+				"name": "Killer Doll - Wine Cellar",
 				"access_rules": [],
 				"sections": [
 					{
@@ -431,7 +431,7 @@
 				]
 			},
 			{
-				"name": "Big Window Room Right Annex",
+				"name": "Right Annex - Big Window Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -440,7 +440,7 @@
 				]
 			},
 			{
-				"name": "Secret Ceiling Room",
+				"name": "Dancing Ceiling Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -486,7 +486,7 @@
 				]
 			},
 			{
-				"name": "Secret Room",
+				"name": "IQ - Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
@@ -508,10 +508,10 @@
 				"access_rules": [],
 				"sections": [
 					{
-						"name": "Left Parapet"
+						"name": "Right Parapet"
 					},
 					{
-						"name": "Right Parapet"
+						"name": "Left Parapet"
 					}
 				]
 			},
@@ -666,7 +666,7 @@
 				]
 			},
 			{
-				"name": "Secret Room",
+				"name": "Opposite Save Secret",
 				"access_rules": [],
 				"sections": [
 					{
@@ -682,7 +682,7 @@
 		"chest_opened_img": "images/items/chest_bw.png",
 		"children": [
 			{
-				"name": "Canal Entrance",
+				"name": "Entrance",
 				"access_rules": [],
 				"sections": [
 					{
@@ -700,7 +700,7 @@
 				]
 			},
 			{
-				"name": "Canal Ceiling",
+				"name": "Ceiling Canal",
 				"access_rules": [],
 				"sections": [
 					{
@@ -754,7 +754,7 @@
 				]
 			},
 			{
-				"name": "Behind the Waterfall",
+				"name": "The Waterfall",
 				"access_rules": [],
 				"sections": [
 					{
@@ -811,7 +811,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Vertical Cavern",
+				"name": "Vertical Cavern - Eastern Reservoir",
 				"access_rules": [],
 				"sections": [
 					{
@@ -820,7 +820,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir",
+				"name": "Post Boat Jump",
 				"access_rules": [],
 				"sections": [
 					{
@@ -829,7 +829,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Right Cavern",
+				"name": "Right Cavern - Eastern Reservoir",
 				"access_rules": [],
 				"sections": [
 					{
@@ -838,7 +838,7 @@
 				]
 			},
 			{
-				"name": "Eastern Reservoir Secret Room",
+				"name": "Eastern Reservoir - Secret Room",
 				"access_rules": [],
 				"sections": [
 					{
